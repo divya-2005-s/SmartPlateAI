@@ -1,0 +1,6 @@
+{
+  "food_csv": "D:\\Food_Composition_Project\\output\\final_food_nutrient_dataset.csv",
+  "packaged_csv": "D:\\Food_Composition_Project\\output\\packaged_foods_india_clean.csv",
+  "additives_csv": "D:\\Food_Composition_Project\\output\\packaged_food_additives.csv",
+  "additive_ref_csv": "D:\\Food_Composition_Project\\output\\additive_reference_populated.csv"
+}

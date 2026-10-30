@@ -1,0 +1,11 @@
+.venv
+.venv-audit
+__pycache__
+*.pyc
+.env
+.pytest_cache
+models
+reports/image_scan.csv
+data/*.db
+data/*.db-shm
+data/*.db-wal

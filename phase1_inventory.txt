@@ -1,0 +1,166 @@
+﻿=== GIT
+git : fatal: not a git repository (or any of the parent directories): .git
+At line:3 char:14
++   "=== GIT"; git status --short 2>&1 | Select-Object -First 30; git l ...
++              ~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo              : NotSpecified: (fatal    : not a gi...ectories):     .git:String) [], Remot    eException
+    + FullyQualifiedErrorId     : NativeCommandError
+ 
+git : fatal: not a git repository (or any of the parent directories): .git
+At line:3 char:65
++ ... tus --short 2>&1 | Select-Object -First 30; git log --oneline -5 2>&1
++                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo              : NotSpecified: (fatal    : not a gi...ectories):     .git:String) [], Remot    eException
+    + FullyQualifiedErrorId     : NativeCommandError
+ 
+=== BACKEND .py
+    3957  backend\app\api\routes\analyze.py
+       0  backend\app\api\routes\__init__.py
+       0  backend\app\api\__init__.py
+     830  backend\app\core\config.py
+       0  backend\app\core\__init__.py
+   10237  backend\app\ml\recognizer.py
+    6443  backend\app\ml\rejection.py
+       0  backend\app\ml\__init__.py
+    3429  backend\app\services\nutrition.py
+       0  backend\app\services\__init__.py
+    1304  backend\app\main.py
+       0  backend\app\__init__.py
+   57786  backend\scripts\audit_datasets.py
+   14710  backend\scripts\calibrate_rejection.py
+   29514  backend\scripts\prepare_splits.py
+   37346  backend\scripts\train_food_classifier.py
+    4376  backend\tests\test_api.py
+    3285  backend\tests\test_logic.py
+    1480  backend\tests\test_nutrition.py
+    1906  backend\tests\test_real_model.py
+=== FRONTEND src
+    2891  frontend\src\App.css
+    1041  frontend\src\App.tsx
+     975  frontend\src\index.css
+     303  frontend\src\main.tsx
+   13057  frontend\src\assets\hero.png
+    4126  frontend\src\assets\react.svg
+    8709  frontend\src\assets\vite.svg
+    9172  frontend\src\components\FoodAnalyzer.tsx
+     662  frontend\src\components\ImageSlot.tsx
+     730  frontend\src\components\Logo.tsx
+    1061  frontend\src\components\Reveal.tsx
+    1801  frontend\src\components\layout\Footer.tsx
+    3640  frontend\src\components\layout\Navbar.tsx
+    2408  frontend\src\lib\foodApi.ts
+    7668  frontend\src\pages\AuthPage.tsx
+   15455  frontend\src\pages\Landing.tsx
+     963  frontend\src\pages\NotFound.tsx
+=== package.json
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "lucide-react": "^1.55.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.4",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0"
+  }
+}
+=== requirements.txt
+# Minimal API only. TensorFlow, OCR and database packages are added in later phases.
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic-settings>=2.4
+=== ENV VARIABLE NAMES ONLY (values hidden)
+=== LLM / OCR / USDA / chat references (first hit per file)
+backend\app\services\nutrition.py:16: BASIS = "per 100 g (USDA FoodData Central reference record)"
+frontend\src\pages\Landing.tsx:72: text: 'A photo identifies a food. Nutrition values come from reference databases such as USDA FoodData Central, not from measuring your individual item.',
+frontend\src\App.tsx:8: function ScrollManager() {
+=== Recognizer / analyze route structure
+recognizer.py:34: class ImageError(Exception):
+recognizer.py:35: def __init__(self, code: str, message: str, status: int) -> None:
+recognizer.py:40: def sha256_file(p: Path) -> str:
+recognizer.py:48: def decode_upload(data: bytes) -> Image.Image:
+recognizer.py:72: class FoodRecognizer:
+recognizer.py:73: def __init__(self, model_dir: str | Path | None = None, allow_uncalibrated: bool = False) -> None:
+recognizer.py:87: def ready(self) -> bool:
+recognizer.py:90: def load(self) -> bool:
+recognizer.py:120: def _load_rejection(self, model_path: Path) -> bool:
+recognizer.py:138: def _load_imagenet(self) -> None:
+recognizer.py:149: def prepare(self, img: Image.Image) -> np.ndarray:
+recognizer.py:154: def embed(self, x: np.ndarray):
+recognizer.py:164: def analyze_image(self, img: Image.Image) -> dict:
+recognizer.py:179: def info(self) -> dict:
+analyze.py:25: def get_recognizer() -> FoodRecognizer:
+analyze.py:33: def get_nutrition() -> NutritionReference:
+analyze.py:41: def error(code: str, message: str, status: int, **extra) -> JSONResponse:
+analyze.py:45: @router.get("/models/status")
+analyze.py:46: def models_status(rec: FoodRecognizer = Depends(get_recognizer)) -> dict:
+analyze.py:51: @router.post("/analyze/food")
+analyze.py:52: def analyze_food(file: UploadFile = File(...), serving_grams: float | None = Form(None),
+main.py:23: app.include_router(analyze_router)
+main.py:25: class HealthResponse(BaseModel):
+main.py:36: def health() -> HealthResponse:
+=== App.tsx
+import { useEffect } from 'react'
+import { Route, Routes, useLocation } from 'react-router-dom'
+import FoodAnalyzer from './components/FoodAnalyzer'
+import Landing from './pages/Landing'
+import AuthPage from './pages/AuthPage'
+import NotFound from './pages/NotFound'
+
+function ScrollManager() {
+  const { pathname, hash } = useLocation()
+  useEffect(() => {
+    if (hash) {
+      const el = document.getElementById(hash.slice(1))
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth' })
+        return
+      }
+    }
+    window.scrollTo({ top: 0 })
+  }, [pathname, hash])
+  return null
+}
+
+export default function App() {
+  return (
+    <>
+      <ScrollManager />
+      <Routes>
+        <Route path="/" element={<Landing />} />
+        <Route path="/analyze" element={<FoodAnalyzer />} />
+        <Route path="/signin" element={<AuthPage key="signin" mode="signin" />} />
+        <Route path="/signup" element={<AuthPage key="signup" mode="signup" />} />
+        <Route path="*" element={<NotFound />} />
+      </Routes>
+    </>
+  )
+}
+=== Relevant installed packages
+
+httpx                   0.28.1
+keras                   3.15.1
+python-multipart        0.0.32
+tensorflow              2.19.1
+=== Tesseract binary
+C:\Program Files\Tesseract-OCR\tesseract.exe
+
+

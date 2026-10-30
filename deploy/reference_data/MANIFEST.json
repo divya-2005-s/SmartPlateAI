@@ -1,0 +1,22 @@
+{
+ "final_food_nutrient_dataset.csv": {
+  "bytes": 7789104,
+  "sha256": "9a5bc791598114ba03e02449f7eb35e4bfedde46576c6e40aa13d2b3fd875312",
+  "source_file": "final_food_nutrient_dataset.csv"
+ },
+ "packaged_foods_india_clean.csv": {
+  "bytes": 349241,
+  "sha256": "02b2354ff4a39527f6515ed70dfba037b7976fb064a02da08112185f57e43ace",
+  "source_file": "packaged_foods_india_clean.csv"
+ },
+ "packaged_food_additives.csv": {
+  "bytes": 616612,
+  "sha256": "3d95532964ed4949bc99babe112a285fee4e1c431bcd5f7ebd71bc5296dafd73",
+  "source_file": "packaged_food_additives.csv"
+ },
+ "additive_reference_populated.csv": {
+  "bytes": 19791,
+  "sha256": "983ed5ecee095282cabe7781e9ea755fbeb1d3a1ee9267cf1f8d35829aff239d",
+  "source_file": "additive_reference_populated.csv"
+ }
+}

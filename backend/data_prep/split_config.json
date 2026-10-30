@@ -1,0 +1,32 @@
+{
+  "script": "prepare_splits.py",
+  "version": "3.0",
+  "generated": "2026-10-10 23:47:05",
+  "seed": 42,
+  "ratios": [
+    0.7,
+    0.15,
+    0.15
+  ],
+  "near_dup_distance": 2,
+  "max_group_size": 2000,
+  "accept_folder_rule": false,
+  "source_food_csv": "D:\\Food_Composition_Project\\output\\final_food_nutrient_dataset.csv",
+  "source_food_csv_sha256_before": "fac1e55dc13b366392d6e8a604148f91dcf1aafc967d0ad0a42854c8bffcd7b4",
+  "source_food_csv_sha256_after": "fac1e55dc13b366392d6e8a604148f91dcf1aafc967d0ad0a42854c8bffcd7b4",
+  "source_unchanged": true,
+  "image_scan_csv_sha256": "861c6cac0cb2765720fadfcc1e34649d06ec03941f3a2e48b006191a6725e336",
+  "python": "3.12.10",
+  "pandas": "3.0.6",
+  "numpy": "2.5.3",
+  "rows_in_source": 49677,
+  "rows_included": 49677,
+  "rows_excluded": 0,
+  "group_stats": {
+    "family_merges": 9066,
+    "exact_merges": 0,
+    "near_merges": 3834,
+    "near_capped_skips": 0
+  },
+  "validation_hard_checks_passed": true
+}

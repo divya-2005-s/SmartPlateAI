@@ -1,0 +1,25 @@
+# HTTPS termination for SmartPlateAI. Caddy gets a Let's Encrypt certificate for SITE_DOMAIN automatically.
+{
+	servers {
+		timeouts {
+			read_header 10s
+			read_body 60s
+			idle 2m
+		}
+	}
+}
+
+{$SITE_DOMAIN} {
+	encode gzip
+	# Packaged-food scans can send three photos of up to 8 MB each.
+	request_body {
+		max_size 30MB
+	}
+	# Caddy sets X-Forwarded-For to the real client address (it ignores any value the client sent, because no
+	# trusted_proxies are configured); the app trusts that header only from Caddy's fixed address.
+	reverse_proxy app:8000 {
+		transport http {
+			response_header_timeout 150s
+		}
+	}
+}

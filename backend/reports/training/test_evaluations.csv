@@ -1,0 +1,2 @@
+timestamp,model,n,accuracy,macro_f1
+2026-10-15 23:08:46,models\production\food_classifier\best.keras,7459,0.9204,0.9071

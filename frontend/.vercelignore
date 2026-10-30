@@ -1,0 +1,10 @@
+android/
+**/*.apk
+**/*.aab
+**/*.aar
+**/.gradle/
+**/build/
+.idea/
+.env*
+*.db
+dist/

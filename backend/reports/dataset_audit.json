@@ -1,0 +1,184 @@
+{
+  "food_rows": 49677,
+  "n_food_classes": 24,
+  "class_names": [
+    "Apple",
+    "Baked Potato",
+    "Banana",
+    "Bell Pepper",
+    "Burger",
+    "Carrot",
+    "Crispy Chicken",
+    "Cucumber",
+    "Donut",
+    "Fries",
+    "Grape",
+    "Guava",
+    "Hot Dog",
+    "Jujube",
+    "Mango",
+    "Orange",
+    "Pizza",
+    "Pomegranate",
+    "Potato",
+    "Sandwich",
+    "Strawberry",
+    "Taco",
+    "Taquito",
+    "Tomato"
+  ],
+  "freshness_foods": [
+    "Apple",
+    "Banana",
+    "Bell Pepper",
+    "Carrot",
+    "Cucumber",
+    "Grape",
+    "Guava",
+    "Jujube",
+    "Mango",
+    "Orange",
+    "Pomegranate",
+    "Potato",
+    "Strawberry",
+    "Tomato"
+  ],
+  "foods_without_freshness_labels": [
+    "Baked Potato",
+    "Burger",
+    "Crispy Chicken",
+    "Donut",
+    "Fries",
+    "Hot Dog",
+    "Pizza",
+    "Sandwich",
+    "Taco",
+    "Taquito"
+  ],
+  "nutrient_columns": [
+    "energy_kcal",
+    "protein_g",
+    "fat_g",
+    "carbohydrate_g",
+    "fiber_g",
+    "sugars_g",
+    "calcium_mg",
+    "iron_mg",
+    "magnesium_mg",
+    "phosphorus_mg",
+    "potassium_mg",
+    "sodium_mg",
+    "zinc_mg",
+    "copper_mg",
+    "manganese_mg",
+    "selenium_ug",
+    "vitamin_a_rae_ug",
+    "vitamin_c_mg",
+    "vitamin_e_mg",
+    "vitamin_k_ug",
+    "thiamin_mg",
+    "riboflavin_mg",
+    "niacin_mg",
+    "vitamin_b6_mg",
+    "folate_dfe_ug",
+    "vitamin_b12_ug",
+    "vitamin_d_ug",
+    "water_g"
+  ],
+  "family_leakage": {
+    "families_multi": 1511,
+    "families_cross_split": 1381,
+    "images_in_cross_split_families": 9667,
+    "test_images_with_twin": 1582
+  },
+  "images": {
+    "scanned": 49677,
+    "sampled": false,
+    "missing": 0,
+    "corrupt": 0,
+    "exact": {
+      "groups": 0,
+      "images_in_groups": 0,
+      "groups_cross_split": 0,
+      "images_in_cross_split_groups": 0,
+      "groups_cross_label": 0,
+      "test_images_with_train_or_val_twin": 0
+    },
+    "near": {
+      "groups": 3064,
+      "images_in_groups": 6981,
+      "groups_cross_split": 1172,
+      "images_in_cross_split_groups": 3088,
+      "groups_cross_label": 25,
+      "test_images_with_train_or_val_twin": 752
+    }
+  },
+  "ocr": {
+    "files": 21847,
+    "images": 21840
+  },
+  "paths": {
+    "food_csv": "D:\\Food_Composition_Project\\output\\final_food_nutrient_dataset.csv",
+    "packaged_csv": "D:\\Food_Composition_Project\\output\\packaged_foods_india_clean.csv",
+    "additives_csv": "D:\\Food_Composition_Project\\output\\packaged_food_additives.csv",
+    "additive_ref_csv": "D:\\Food_Composition_Project\\output\\additive_reference_populated.csv"
+  },
+  "findings": [
+    {
+      "severity": "MEDIUM",
+      "text": "Strong class imbalance (15.6x). Training needs class weights or balanced sampling, and the report must use macro-averaged metrics."
+    },
+    {
+      "severity": "MEDIUM",
+      "text": "Source confounding: 21 of 24 foods come from a single image source, so a model can partly learn the dataset's photo style instead of the food. Interpret test accuracy with care."
+    },
+    {
+      "severity": "MEDIUM",
+      "text": "13,599 images are labelled condition=Unknown but their class name already says Fresh/Rotten. These can be used for the freshness model after you confirm the heuristic."
+    },
+    {
+      "severity": "HIGH",
+      "text": "Split leakage: 1,582 test images (21.3%) have an augmented/original twin in train or validation (matched by filename family). Test accuracy on this split would be inflated. Phase 3 will build a group-aware split (your original CSV is left untouched)."
+    },
+    {
+      "severity": "HIGH",
+      "text": "1172 near-duplicate groups span splits; 752 test images have a near-duplicate in train/validation."
+    },
+    {
+      "severity": "HIGH",
+      "text": "85% of packaged products have calcium=0 and iron=0 - almost certainly missing values stored as 0. Convert to 'not available' before showing them."
+    },
+    {
+      "severity": "HIGH",
+      "text": "72 packaged rows have a serving size other than 100 g and the table has no basis column (per 100 g vs per serving). Per-serving and per-100 g values must never be mixed."
+    },
+    {
+      "severity": "MEDIUM",
+      "text": "52 packaged rows have impossible/suspicious nutrient values (see packaged_food_flags.csv)."
+    },
+    {
+      "severity": "MEDIUM",
+      "text": "Almost no provenance recorded (source/date/collector). You cannot trace where nutrient values came from, and the sources that are named may have terms-of-use limits."
+    },
+    {
+      "severity": "HIGH",
+      "text": "8 additive codes look malformed or unverifiable: INS 1500, INS 2021, INS 2620, INS 3076, INS 3310, INS 4221, INS 4500, INS 5330. Check them against the original ingredient text and the Codex INS list."
+    },
+    {
+      "severity": "HIGH",
+      "text": "Additive extraction is incomplete: 105 products have INS/E codes in the text that the table misses (+187 with codes written like 'EMULSIFIER [472e]' or 'RAISING AGENTS 503'; 289 products in total have at least one missed code). The extractor probably needs the word 'INS' and ignores the 'E' prefix and bare numbers after a function name. Full list: reports/additive_extraction_gaps.csv."
+    },
+    {
+      "severity": "HIGH",
+      "text": "8 reference entries have codes that look malformed (INS 1500, INS 2021, INS 2620, INS 3076, INS 3310, INS 4221, INS 4500, INS 5330) yet carry specific additive names. Names for such codes may be wrong; verify each against Codex."
+    },
+    {
+      "severity": "MEDIUM",
+      "text": "The additive reference cites organisations (Codex/JECFA/FSSAI) but no specific document, version or URL per entry, so none of its regulatory statements can be traced. Treat as UNVERIFIED until checked against the primary sources."
+    },
+    {
+      "severity": "MEDIUM",
+      "text": "Every reference code occurs in your 852 products and nothing else: the reference appears to be built only from observed codes. Any other INS code the OCR finds will have no entry (the app must say 'not in our reference')."
+    }
+  ]
+}

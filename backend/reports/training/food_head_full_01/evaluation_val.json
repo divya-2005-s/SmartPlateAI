@@ -1,0 +1,131 @@
+{
+  "split": "val",
+  "subsets": {
+    "all": {
+      "n": 7456,
+      "accuracy": 0.9071888412017167,
+      "top3_accuracy": 0.9750536480686696,
+      "macro_precision": 0.8816195998915557,
+      "macro_recall": 0.9007704337533643,
+      "macro_f1": 0.8896106269440592,
+      "weighted_f1": 0.9073601393864899,
+      "log_loss": 0.3095746338367462,
+      "mean_top1_confidence": 0.9127189517021179,
+      "top_confusions": [
+        {
+          "true": "Taquito",
+          "predicted_as": "Taco",
+          "images": 32
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Taquito",
+          "images": 19
+        },
+        {
+          "true": "Sandwich",
+          "predicted_as": "Burger",
+          "images": 19
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Baked Potato",
+          "images": 15
+        },
+        {
+          "true": "Hot Dog",
+          "predicted_as": "Taquito",
+          "images": 14
+        },
+        {
+          "true": "Apple",
+          "predicted_as": "Guava",
+          "images": 14
+        },
+        {
+          "true": "Pizza",
+          "predicted_as": "Taco",
+          "images": 13
+        },
+        {
+          "true": "Sandwich",
+          "predicted_as": "Taco",
+          "images": 13
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Sandwich",
+          "images": 13
+        },
+        {
+          "true": "Orange",
+          "predicted_as": "Mango",
+          "images": 12
+        }
+      ]
+    },
+    "original_only": {
+      "n": 6082,
+      "accuracy": 0.8893456099967116,
+      "top3_accuracy": 0.969582374219007,
+      "macro_precision": 0.8823153280107153,
+      "macro_recall": 0.8970903357051392,
+      "macro_f1": 0.8881275527964707,
+      "weighted_f1": 0.8893714297786928,
+      "log_loss": 0.37009602785110474,
+      "mean_top1_confidence": 0.8976479768753052,
+      "top_confusions": [
+        {
+          "true": "Taquito",
+          "predicted_as": "Taco",
+          "images": 32
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Taquito",
+          "images": 19
+        },
+        {
+          "true": "Sandwich",
+          "predicted_as": "Burger",
+          "images": 19
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Baked Potato",
+          "images": 15
+        },
+        {
+          "true": "Hot Dog",
+          "predicted_as": "Taquito",
+          "images": 14
+        },
+        {
+          "true": "Sandwich",
+          "predicted_as": "Taco",
+          "images": 13
+        },
+        {
+          "true": "Pizza",
+          "predicted_as": "Taco",
+          "images": 13
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Sandwich",
+          "images": 13
+        },
+        {
+          "true": "Apple",
+          "predicted_as": "Guava",
+          "images": 13
+        },
+        {
+          "true": "Orange",
+          "predicted_as": "Mango",
+          "images": 12
+        }
+      ]
+    }
+  }
+}

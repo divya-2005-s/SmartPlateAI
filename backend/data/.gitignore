@@ -1,0 +1,3 @@
+# Local SQLite database and caches. Never commit or share.
+*
+!.gitignore

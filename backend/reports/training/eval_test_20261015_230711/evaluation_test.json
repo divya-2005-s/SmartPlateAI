@@ -1,0 +1,131 @@
+{
+  "split": "test",
+  "subsets": {
+    "all": {
+      "n": 7459,
+      "accuracy": 0.9203646601421102,
+      "top3_accuracy": 0.9821691915806409,
+      "macro_precision": 0.9065572724189228,
+      "macro_recall": 0.9088583236361086,
+      "macro_f1": 0.907117772860946,
+      "weighted_f1": 0.9204822460100072,
+      "log_loss": 0.2619102895259857,
+      "mean_top1_confidence": 0.935543954372406,
+      "top_confusions": [
+        {
+          "true": "Taquito",
+          "predicted_as": "Taco",
+          "images": 29
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Taquito",
+          "images": 19
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Burger",
+          "images": 18
+        },
+        {
+          "true": "Sandwich",
+          "predicted_as": "Burger",
+          "images": 14
+        },
+        {
+          "true": "Burger",
+          "predicted_as": "Sandwich",
+          "images": 11
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Baked Potato",
+          "images": 10
+        },
+        {
+          "true": "Hot Dog",
+          "predicted_as": "Burger",
+          "images": 10
+        },
+        {
+          "true": "Sandwich",
+          "predicted_as": "Taco",
+          "images": 9
+        },
+        {
+          "true": "Hot Dog",
+          "predicted_as": "Taquito",
+          "images": 9
+        },
+        {
+          "true": "Hot Dog",
+          "predicted_as": "Taco",
+          "images": 9
+        }
+      ]
+    },
+    "original_only": {
+      "n": 6085,
+      "accuracy": 0.9050123253903041,
+      "top3_accuracy": 0.9786359901396877,
+      "macro_precision": 0.9070833487830701,
+      "macro_recall": 0.9073614766707875,
+      "macro_f1": 0.9066364605752045,
+      "weighted_f1": 0.9049390395615585,
+      "log_loss": 0.3117516040802002,
+      "mean_top1_confidence": 0.9244179129600525,
+      "top_confusions": [
+        {
+          "true": "Taquito",
+          "predicted_as": "Taco",
+          "images": 29
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Taquito",
+          "images": 19
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Burger",
+          "images": 18
+        },
+        {
+          "true": "Sandwich",
+          "predicted_as": "Burger",
+          "images": 14
+        },
+        {
+          "true": "Burger",
+          "predicted_as": "Sandwich",
+          "images": 11
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Baked Potato",
+          "images": 10
+        },
+        {
+          "true": "Hot Dog",
+          "predicted_as": "Burger",
+          "images": 10
+        },
+        {
+          "true": "Sandwich",
+          "predicted_as": "Taco",
+          "images": 9
+        },
+        {
+          "true": "Hot Dog",
+          "predicted_as": "Taco",
+          "images": 9
+        },
+        {
+          "true": "Hot Dog",
+          "predicted_as": "Taquito",
+          "images": 9
+        }
+      ]
+    }
+  }
+}

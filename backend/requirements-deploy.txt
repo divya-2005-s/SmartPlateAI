@@ -1,0 +1,16 @@
+# Complete, pinned runtime dependencies for the server image (Linux x86-64, CPU only, Python 3.12).
+# Versions are the ones the test suite passed with locally on 2026-10-27. requirements.txt is the older minimal API list.
+# On an ARM (aarch64) server replace tensorflow-cpu with tensorflow==2.19.1 (tensorflow-cpu has no aarch64 wheel).
+fastapi==0.143.0
+starlette==1.7.0
+uvicorn[standard]==0.54.0
+pydantic==2.14.0
+pydantic-settings==2.15.0
+python-multipart==0.0.32
+openai==3.29.0
+tensorflow-cpu==2.19.1
+keras==3.15.1
+h5py==3.16.0
+numpy==2.1.3
+pandas==3.0.6
+pillow==12.3.0

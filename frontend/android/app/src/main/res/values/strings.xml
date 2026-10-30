@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SmartPlateAI</string>
+    <string name="title_activity_main">SmartPlateAI</string>
+    <string name="package_name">com.example.smartplateai</string>
+    <string name="custom_url_scheme">com.example.smartplateai</string>
+</resources>

@@ -1,0 +1,190 @@
+image_id,image_name,group_id,food,new_split
+1211,rotated_by_15_Screen Shot 2018-06-08 at 2.21.33 PM.png,62,Apple,test
+1213,rotated_by_15_Screen Shot 2018-06-08 at 2.23.48 PM.png,62,Apple,test
+8110,rotated_by_45_Screen Shot 2018-06-08 at 2.23.48 PM.png,62,Apple,test
+1544,saltandpepper_Screen Shot 2018-06-08 at 2.21.33 PM.png,62,Apple,test
+7849,rotated_by_30_Screen Shot 2018-06-08 at 2.23.48 PM.png,62,Apple,test
+8108,rotated_by_45_Screen Shot 2018-06-08 at 2.21.33 PM.png,62,Apple,test
+17644,rottenApple (370).jpg,62,Apple,test
+9402,translation_Screen Shot 2018-06-08 at 2.23.48 PM.png,62,Apple,test
+8888,saltandpepper_Screen Shot 2018-06-08 at 2.23.48 PM.png,62,Apple,test
+9145,Screen Shot 2018-06-08 at 2.21.33 PM.png,62,Apple,test
+9147,Screen Shot 2018-06-08 at 2.23.48 PM.png,62,Apple,test
+9400,translation_Screen Shot 2018-06-08 at 2.21.33 PM.png,62,Apple,test
+8376,rotated_by_60_Screen Shot 2018-06-08 at 2.23.48 PM.png,62,Apple,test
+7847,rotated_by_30_Screen Shot 2018-06-08 at 2.21.33 PM.png,62,Apple,test
+8637,rotated_by_75_Screen Shot 2018-06-08 at 2.23.48 PM.png,62,Apple,test
+8636,rotated_by_75_Screen Shot 2018-06-08 at 2.21.33 PM.png,62,Apple,test
+9560,vertical_flip_Screen Shot 2018-06-07 at 2.40.48 PM.png,62,Apple,test
+8374,rotated_by_60_Screen Shot 2018-06-08 at 2.21.33 PM.png,62,Apple,test
+59964,Burger-Valid (261).jpeg,62,Burger,test
+6996,Screen Shot 2018-06-12 at 11.58.50 PM.png,62,Orange,test
+6517,rotated_by_60_Screen Shot 2018-06-12 at 11.58.50 PM.png,62,Orange,test
+6355,rotated_by_45_Screen Shot 2018-06-12 at 11.58.50 PM.png,62,Orange,test
+953,rotated_by_75_Screen Shot 2018-06-12 at 11.58.50 PM.png,62,Orange,test
+6022,rotated_by_15_Screen Shot 2018-06-12 at 11.58.50 PM.png,62,Orange,test
+7158,translation_Screen Shot 2018-06-12 at 11.58.50 PM.png,62,Orange,test
+6186,rotated_by_30_Screen Shot 2018-06-12 at 11.58.50 PM.png,62,Orange,test
+3368,rotated_by_60_Screen Shot 2018-06-08 at 5.15.52 PM.png,218,Apple,test
+3657,saltandpepper_Screen Shot 2018-06-08 at 5.01.41 PM.png,218,Apple,test
+3552,rotated_by_75_Screen Shot 2018-06-08 at 5.15.52 PM.png,218,Apple,test
+83,rotated_by_45_Screen Shot 2018-06-08 at 5.01.41 PM.png,218,Apple,test
+2991,rotated_by_30_Screen Shot 2018-06-08 at 5.15.52 PM.png,218,Apple,test
+2907,rotated_by_30_Screen Shot 2018-06-08 at 5.01.41 PM.png,218,Apple,test
+2712,rotated_by_15_Screen Shot 2018-06-08 at 5.01.41 PM.png,218,Apple,test
+3470,rotated_by_75_Screen Shot 2018-06-08 at 5.01.41 PM.png,218,Apple,test
+2797,rotated_by_15_Screen Shot 2018-06-08 at 5.15.52 PM.png,218,Apple,test
+6125,rotated_by_15_Screen Shot 2018-06-13 at 12.17.19 AM.png,218,Orange,test
+6778,rotated_by_75_Screen Shot 2018-06-13 at 12.17.19 AM.png,218,Orange,test
+7096,Screen Shot 2018-06-13 at 12.17.19 AM.png,218,Orange,test
+6934,saltandpepper_Screen Shot 2018-06-13 at 12.17.19 AM.png,218,Orange,test
+6612,rotated_by_60_Screen Shot 2018-06-13 at 12.17.19 AM.png,218,Orange,test
+6453,rotated_by_45_Screen Shot 2018-06-13 at 12.17.19 AM.png,218,Orange,test
+3922,Screen Shot 2018-06-08 at 5.15.52 PM.png,218,Apple,test
+4113,translation_Screen Shot 2018-06-08 at 5.15.52 PM.png,218,Apple,test
+3285,rotated_by_60_Screen Shot 2018-06-08 at 5.01.41 PM.png,218,Apple,test
+264,Screen Shot 2018-06-08 at 5.01.41 PM.png,218,Apple,test
+3181,rotated_by_45_Screen Shot 2018-06-08 at 5.15.52 PM.png,218,Apple,test
+4027,translation_Screen Shot 2018-06-08 at 5.01.41 PM.png,218,Apple,test
+241,saltandpepper_Screen Shot 2018-06-08 at 5.15.52 PM.png,218,Apple,test
+7262,translation_Screen Shot 2018-06-13 at 12.17.19 AM.png,218,Orange,test
+854,rotated_by_30_Screen Shot 2018-06-13 at 12.17.19 AM.png,218,Orange,test
+5982,rotated_by_15_Screen Shot 2018-06-12 at 11.52.21 PM.png,334,Orange,train
+9469,translation_Screen Shot 2018-06-08 at 2.41.16 PM.png,334,Apple,train
+7917,rotated_by_30_Screen Shot 2018-06-08 at 2.41.16 PM.png,334,Apple,train
+9211,Screen Shot 2018-06-08 at 2.41.16 PM.png,334,Apple,train
+8171,rotated_by_45_Screen Shot 2018-06-08 at 2.41.16 PM.png,334,Apple,train
+8951,saltandpepper_Screen Shot 2018-06-08 at 2.41.16 PM.png,334,Apple,train
+1420,rotated_by_60_Screen Shot 2018-06-08 at 2.41.16 PM.png,334,Apple,train
+7650,rotated_by_15_Screen Shot 2018-06-08 at 2.41.16 PM.png,334,Apple,train
+8700,rotated_by_75_Screen Shot 2018-06-08 at 2.41.16 PM.png,334,Apple,train
+6317,rotated_by_45_Screen Shot 2018-06-12 at 11.52.21 PM.png,334,Orange,train
+6176,rotated_by_30_Screen Shot 2018-06-12 at 11.56.43 PM.png,334,Orange,train
+6312,rotated_by_45_Screen Shot 2018-06-12 at 11.51.13 PM.png,334,Orange,train
+6150,rotated_by_30_Screen Shot 2018-06-12 at 11.52.21 PM.png,334,Orange,train
+6146,rotated_by_30_Screen Shot 2018-06-12 at 11.51.13 PM.png,334,Orange,train
+7120,translation_Screen Shot 2018-06-12 at 11.51.13 PM.png,334,Orange,train
+6956,Screen Shot 2018-06-12 at 11.51.13 PM.png,334,Orange,train
+908,rotated_by_60_Screen Shot 2018-06-12 at 11.56.43 PM.png,334,Orange,train
+6961,Screen Shot 2018-06-12 at 11.52.21 PM.png,334,Orange,train
+6480,rotated_by_60_Screen Shot 2018-06-12 at 11.51.13 PM.png,334,Orange,train
+6485,rotated_by_60_Screen Shot 2018-06-12 at 11.52.21 PM.png,334,Orange,train
+6985,Screen Shot 2018-06-12 at 11.56.43 PM.png,334,Orange,train
+6644,rotated_by_75_Screen Shot 2018-06-12 at 11.52.21 PM.png,334,Orange,train
+1082,translation_Screen Shot 2018-06-12 at 11.52.21 PM.png,334,Orange,train
+6009,rotated_by_15_Screen Shot 2018-06-12 at 11.56.43 PM.png,334,Orange,train
+781,rotated_by_15_Screen Shot 2018-06-12 at 11.51.13 PM.png,334,Orange,train
+1000,saltandpepper_Screen Shot 2018-06-12 at 11.56.43 PM.png,334,Orange,train
+6639,rotated_by_75_Screen Shot 2018-06-12 at 11.51.13 PM.png,334,Orange,train
+6670,rotated_by_75_Screen Shot 2018-06-12 at 11.56.43 PM.png,334,Orange,train
+6797,saltandpepper_Screen Shot 2018-06-12 at 11.51.13 PM.png,334,Orange,train
+6802,saltandpepper_Screen Shot 2018-06-12 at 11.52.21 PM.png,334,Orange,train
+7146,translation_Screen Shot 2018-06-12 at 11.56.43 PM.png,334,Orange,train
+6344,rotated_by_45_Screen Shot 2018-06-12 at 11.56.43 PM.png,334,Orange,train
+44411,Baked Potato-Train (1016).jpeg,2408,Baked Potato,train
+51460,Fries-Train (610).jpeg,2408,Fries,train
+24771,rottenPepper (488).jpg,7198,Bell Pepper,train
+26132,rottenCarrot (65).jpg,7198,Carrot,train
+59839,Burger-Valid (142).jpeg,7853,Burger,val
+45892,Burger-Train (10).jpeg,7853,Burger,val
+48360,Crispy Chicken-Train (520).jpeg,7853,Crispy Chicken,val
+53325,Hot Dog - Train (944).jpeg,7996,Hot Dog,test
+46109,Burger-Train (1195).jpeg,7996,Burger,test
+43286,Crispy Chicken-Test (95).jpeg,8246,Crispy Chicken,test
+46460,Burger-Train (160).jpeg,8246,Burger,test
+46547,Burger-Train (239).jpeg,8302,Burger,train
+60237,Crispy Chicken-Valid (230).jpeg,8302,Crispy Chicken,train
+46936,Burger-Train (59).jpeg,8556,Burger,train
+60123,Crispy Chicken-Valid (128).jpeg,8556,Crispy Chicken,train
+61108,Fries-Valid (385).jpeg,9145,Fries,train
+46198,Burger-Train (1275).jpeg,9145,Burger,train
+46282,Burger-Train (1350).jpeg,9157,Burger,train
+51270,Fries-Train (44).jpeg,9157,Fries,train
+46699,Burger-Train (376).jpeg,9221,Burger,train
+51981,Hot Dog - Train (107).jpeg,9221,Hot Dog,train
+51302,Fries-Train (469).jpeg,14887,Fries,train
+57508,Taco-Train (654).jpeg,14887,Taco,train
+50691,Fries-Train (1269).jpeg,15264,Fries,test
+36076,rottenOrange (53).jpg,15264,Orange,test
+51452,Fries-Train (603).jpeg,15264,Fries,test
+61194,Hot Dog-Valid (101).jpeg,15479,Hot Dog,train
+51032,Fries-Train (225).jpeg,15479,Fries,train
+30374,healthy_199.jpg,17111,Mango,train
+28168,RottenGuava (97).jpg,17111,Guava,train
+31050,699.jpg,19683,Mango,val
+31053,700.jpg,19683,Mango,val
+31049,698.jpg,19683,Mango,val
+31043,692.jpg,19683,Mango,val
+39340,862.jpg,19683,Strawberry,val
+39264,794.jpg,19683,Strawberry,val
+31271,898.jpg,19683,Mango,val
+31363,980.jpg,19683,Mango,val
+39211,746.jpg,19683,Strawberry,val
+39303,829.jpg,19683,Strawberry,val
+39250,781.jpg,19683,Strawberry,val
+39298,824.jpg,19683,Strawberry,val
+41044,953.jpg,19683,Strawberry,val
+41092,997.jpg,19683,Strawberry,val
+39424,938.jpg,19683,Strawberry,val
+31380,996.jpg,19683,Mango,val
+40905,828.jpg,19683,Strawberry,val
+40912,834.jpg,19683,Strawberry,val
+41034,944.jpg,19683,Strawberry,val
+41023,934.jpg,19683,Strawberry,val
+41065,972.jpg,19683,Strawberry,val
+41087,992.jpg,19683,Strawberry,val
+41089,994.jpg,19683,Strawberry,val
+41037,947.jpg,19683,Strawberry,val
+39360,880.jpg,19683,Strawberry,val
+39311,836.jpg,19683,Strawberry,val
+39317,841.jpg,19683,Strawberry,val
+39339,861.jpg,19683,Strawberry,val
+39403,919.jpg,19683,Strawberry,val
+39394,910.jpg,19683,Strawberry,val
+39405,920.jpg,19683,Strawberry,val
+39307,832.jpg,19683,Strawberry,val
+40992,906.jpg,19683,Strawberry,val
+39408,923.jpg,19683,Strawberry,val
+39471,980.jpg,19683,Strawberry,val
+39472,981.jpg,19683,Strawberry,val
+39490,998.jpg,19683,Strawberry,val
+39473,982.jpg,19683,Strawberry,val
+40909,831.jpg,19683,Strawberry,val
+40903,826.jpg,19683,Strawberry,val
+41011,923.jpg,19683,Strawberry,val
+41005,918.jpg,19683,Strawberry,val
+40910,832.jpg,19683,Strawberry,val
+40991,905.jpg,19683,Strawberry,val
+41033,943.jpg,19683,Strawberry,val
+41035,945.jpg,19683,Strawberry,val
+41025,936.jpg,19683,Strawberry,val
+39407,922.jpg,19683,Strawberry,val
+41094,999.jpg,19683,Strawberry,val
+41067,974.jpg,19683,Strawberry,val
+41088,993.jpg,19683,Strawberry,val
+41038,948.jpg,19683,Strawberry,val
+41045,954.jpg,19683,Strawberry,val
+39467,977.jpg,19683,Strawberry,val
+40098,1000.jpg,19683,Strawberry,val
+41090,995.jpg,19683,Strawberry,val
+41091,996.jpg,19683,Strawberry,val
+39299,825.jpg,19683,Strawberry,val
+39308,833.jpg,19683,Strawberry,val
+39309,834.jpg,19683,Strawberry,val
+39406,921.jpg,19683,Strawberry,val
+40302,285.jpg,19999,Strawberry,train
+28868,366.jpg,19999,Mango,train
+28876,373.jpg,19999,Mango,train
+29462,900.jpg,20371,Mango,test
+29425,868.jpg,20371,Mango,test
+41004,917.jpg,20371,Strawberry,test
+31041,690.jpg,21239,Mango,train
+40995,909.jpg,21239,Strawberry,train
+39411,926.jpg,21257,Strawberry,train
+31069,715.jpg,21257,Mango,train
+55839,Sandwich-Train (501).jpeg,25319,Sandwich,train
+54136,Pizza-Train (319).jpeg,25319,Pizza,train
+57079,Taco-Train (268).jpeg,32060,Taco,train
+58420,Taquito-Train (1475).jpeg,32060,Taquito,train
+62420,Taco-Valid (396).jpeg,33545,Taco,train
+44376,Taquito-Test (86).jpeg,33545,Taquito,train

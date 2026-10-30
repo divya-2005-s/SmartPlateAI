@@ -1,0 +1,301 @@
+image_id,true_id,true_food,pred_id,pred_food,top1_confidence,correct,is_augmented_copy,source_dataset
+57035,21,Taco,4,Burger,0.9999,False,False,FastFood
+46212,4,Burger,8,Donut,0.9997,False,False,FastFood
+51780,9,Fries,4,Burger,0.9981,False,False,FastFood
+32933,15,Orange,8,Donut,0.9975,False,False,FruitVegetable
+43002,4,Burger,9,Fries,0.996,False,False,FastFood
+50080,8,Donut,18,Potato,0.9932,False,False,FastFood
+49273,8,Donut,16,Pizza,0.9929,False,False,FastFood
+37986,18,Potato,8,Donut,0.9929,False,False,FruitVegetable
+55177,19,Sandwich,4,Burger,0.9928,False,False,FastFood
+17900,0,Apple,17,Pomegranate,0.9916,False,False,FruitVegetable
+62571,22,Taquito,6,Crispy Chicken,0.991,False,False,FastFood
+60044,4,Burger,19,Sandwich,0.9906,False,False,FastFood
+60262,6,Crispy Chicken,4,Burger,0.9902,False,False,FastFood
+48360,6,Crispy Chicken,4,Burger,0.9893,False,False,FastFood
+60887,9,Fries,18,Potato,0.9884,False,False,FastFood
+53323,12,Hot Dog,4,Burger,0.9863,False,False,FastFood
+61791,19,Sandwich,4,Burger,0.9859,False,False,FastFood
+61043,9,Fries,4,Burger,0.9849,False,False,FastFood
+50071,8,Donut,19,Sandwich,0.9826,False,False,FastFood
+61890,19,Sandwich,4,Burger,0.9823,False,False,FastFood
+24953,3,Bell Pepper,5,Carrot,0.9813,False,False,FruitVegetable
+57672,21,Taco,16,Pizza,0.9803,False,False,FastFood
+38421,18,Potato,8,Donut,0.9787,False,False,FruitVegetable
+38424,18,Potato,8,Donut,0.9781,False,False,FruitVegetable
+35825,15,Orange,14,Mango,0.9775,False,False,FruitVegetable
+60144,6,Crispy Chicken,4,Burger,0.9769,False,False,FastFood
+32783,15,Orange,13,Jujube,0.9767,False,False,FruitVegetable
+8191,0,Apple,15,Orange,0.9764,False,True,FruitQuality1
+17780,0,Apple,3,Bell Pepper,0.9733,False,False,FruitVegetable
+57064,21,Taco,9,Fries,0.9729,False,False,FastFood
+60272,6,Crispy Chicken,4,Burger,0.9729,False,False,FastFood
+45266,1,Baked Potato,6,Crispy Chicken,0.9718,False,False,FastFood
+24712,3,Bell Pepper,5,Carrot,0.9716,False,False,FruitVegetable
+45984,4,Burger,15,Orange,0.9689,False,False,FastFood
+44859,1,Baked Potato,16,Pizza,0.9688,False,False,FastFood
+17342,0,Apple,11,Guava,0.9683,False,False,FruitVegetable
+45843,1,Baked Potato,16,Pizza,0.9675,False,False,FastFood
+61124,9,Fries,4,Burger,0.9657,False,False,FastFood
+32273,14,Mango,7,Cucumber,0.9654,False,False,FruitVegetable
+32290,14,Mango,7,Cucumber,0.9654,False,False,FruitVegetable
+57270,21,Taco,8,Donut,0.9653,False,False,FastFood
+61327,12,Hot Dog,4,Burger,0.9652,False,False,FastFood
+48603,6,Crispy Chicken,4,Burger,0.965,False,False,FastFood
+7946,0,Apple,15,Orange,0.9648,False,True,FruitQuality1
+47892,6,Crispy Chicken,8,Donut,0.9648,False,False,FastFood
+24636,3,Bell Pepper,7,Cucumber,0.9633,False,False,FruitVegetable
+58078,22,Taquito,5,Carrot,0.9628,False,False,FastFood
+1566,0,Apple,11,Guava,0.9623,False,False,FruitQuality1
+13857,0,Apple,13,Jujube,0.9604,False,False,FruitVegetable
+17394,0,Apple,11,Guava,0.9596,False,False,FruitVegetable
+17391,0,Apple,17,Pomegranate,0.9594,False,False,FruitVegetable
+17879,0,Apple,18,Potato,0.9564,False,False,FruitVegetable
+24904,3,Bell Pepper,14,Mango,0.955,False,False,FruitVegetable
+48643,6,Crispy Chicken,16,Pizza,0.9542,False,False,FastFood
+53580,16,Pizza,8,Donut,0.9529,False,False,FastFood
+37811,18,Potato,10,Grape,0.9528,False,False,FruitVegetable
+47600,6,Crispy Chicken,16,Pizza,0.9524,False,False,FastFood
+11304,2,Banana,7,Cucumber,0.9523,False,False,FruitQuality1
+61897,19,Sandwich,4,Burger,0.9519,False,False,FastFood
+44356,22,Taquito,21,Taco,0.9511,False,False,FastFood
+58920,22,Taquito,9,Fries,0.9502,False,False,FastFood
+50586,9,Fries,4,Burger,0.9494,False,False,FastFood
+17867,0,Apple,17,Pomegranate,0.9493,False,False,FruitVegetable
+61881,19,Sandwich,12,Hot Dog,0.9483,False,False,FastFood
+32226,14,Mango,7,Cucumber,0.9482,False,False,FruitVegetable
+55715,19,Sandwich,4,Burger,0.948,False,False,FastFood
+58054,22,Taquito,12,Hot Dog,0.9471,False,False,FastFood
+55217,19,Sandwich,4,Burger,0.947,False,False,FastFood
+25730,5,Carrot,6,Crispy Chicken,0.9468,False,False,FruitVegetable
+38417,18,Potato,8,Donut,0.944,False,False,FruitVegetable
+35986,15,Orange,14,Mango,0.9404,False,False,FruitVegetable
+59280,22,Taquito,21,Taco,0.9397,False,False,FastFood
+59753,1,Baked Potato,3,Bell Pepper,0.9397,False,False,FastFood
+46005,4,Burger,8,Donut,0.9393,False,False,FastFood
+44707,1,Baked Potato,3,Bell Pepper,0.9388,False,False,FastFood
+9718,0,Apple,8,Donut,0.9379,False,False,FruitQuality1
+28424,13,Jujube,11,Guava,0.9376,False,False,FruitVegetable
+57760,21,Taco,12,Hot Dog,0.9375,False,False,FastFood
+52691,12,Hot Dog,5,Carrot,0.9328,False,False,FastFood
+32789,15,Orange,13,Jujube,0.9321,False,False,FruitVegetable
+46999,4,Burger,9,Fries,0.9309,False,False,FastFood
+58630,22,Taquito,21,Taco,0.9266,False,False,FastFood
+57056,21,Taco,8,Donut,0.9235,False,False,FastFood
+24622,3,Bell Pepper,23,Tomato,0.9209,False,False,FruitVegetable
+49414,8,Donut,1,Baked Potato,0.92,False,False,FastFood
+47255,4,Burger,19,Sandwich,0.9198,False,False,FastFood
+14340,0,Apple,15,Orange,0.916,False,False,FruitVegetable
+57835,21,Taco,19,Sandwich,0.9122,False,False,FastFood
+43475,8,Donut,4,Burger,0.91,False,False,FastFood
+62657,22,Taquito,8,Donut,0.9059,False,False,FastFood
+11545,2,Banana,7,Cucumber,0.9057,False,True,FruitQuality1
+56574,21,Taco,8,Donut,0.9054,False,False,FastFood
+35649,15,Orange,11,Guava,0.904,False,False,FruitVegetable
+54975,19,Sandwich,4,Burger,0.9036,False,False,FastFood
+17689,0,Apple,17,Pomegranate,0.9034,False,False,FruitVegetable
+57928,22,Taquito,6,Crispy Chicken,0.9029,False,False,FastFood
+45795,1,Baked Potato,9,Fries,0.8999,False,False,FastFood
+55873,19,Sandwich,4,Burger,0.8997,False,False,FastFood
+52210,12,Hot Dog,8,Donut,0.897,False,False,FastFood
+53143,12,Hot Dog,19,Sandwich,0.8962,False,False,FastFood
+61939,19,Sandwich,21,Taco,0.8932,False,False,FastFood
+38240,18,Potato,1,Baked Potato,0.8921,False,False,FruitVegetable
+57559,21,Taco,22,Taquito,0.8885,False,False,FastFood
+11205,2,Banana,7,Cucumber,0.8872,False,False,FruitQuality1
+44310,22,Taquito,21,Taco,0.881,False,False,FastFood
+57115,21,Taco,1,Baked Potato,0.8803,False,False,FastFood
+56661,21,Taco,8,Donut,0.8794,False,False,FastFood
+58051,22,Taquito,19,Sandwich,0.8773,False,False,FastFood
+31963,14,Mango,0,Apple,0.874,False,False,FruitVegetable
+13054,15,Orange,0,Apple,0.8711,False,False,FruitQuality1
+50947,9,Fries,4,Burger,0.8687,False,False,FastFood
+54872,16,Pizza,4,Burger,0.8679,False,False,FastFood
+57725,21,Taco,8,Donut,0.8674,False,False,FastFood
+62758,22,Taquito,21,Taco,0.867,False,False,FastFood
+57890,21,Taco,22,Taquito,0.8665,False,False,FastFood
+57295,21,Taco,8,Donut,0.8664,False,False,FastFood
+62866,22,Taquito,21,Taco,0.8653,False,False,FastFood
+61105,9,Fries,4,Burger,0.8631,False,False,FastFood
+42321,23,Tomato,3,Bell Pepper,0.8628,False,False,FruitVegetable
+30311,14,Mango,0,Apple,0.8622,False,False,FruitVegetable
+60964,9,Fries,8,Donut,0.8612,False,False,FastFood
+9244,0,Apple,11,Guava,0.8587,False,False,FruitQuality1
+13612,0,Apple,11,Guava,0.8568,False,False,FruitVegetable
+61310,12,Hot Dog,8,Donut,0.8566,False,False,FastFood
+58755,22,Taquito,9,Fries,0.8552,False,False,FastFood
+46439,4,Burger,6,Crispy Chicken,0.853,False,False,FastFood
+3965,0,Apple,14,Mango,0.8506,False,False,FruitQuality1
+1497,0,Apple,15,Orange,0.8487,False,True,FruitQuality1
+61837,19,Sandwich,9,Fries,0.8478,False,False,FastFood
+56036,19,Sandwich,4,Burger,0.8436,False,False,FastFood
+55158,19,Sandwich,4,Burger,0.8429,False,False,FastFood
+47615,6,Crispy Chicken,4,Burger,0.8411,False,False,FastFood
+32861,15,Orange,14,Mango,0.8401,False,False,FruitVegetable
+58386,22,Taquito,9,Fries,0.8381,False,False,FastFood
+61731,16,Pizza,1,Baked Potato,0.8374,False,False,FastFood
+17904,0,Apple,11,Guava,0.833,False,False,FruitVegetable
+47589,6,Crispy Chicken,21,Taco,0.8324,False,False,FastFood
+24569,3,Bell Pepper,8,Donut,0.8321,False,False,FruitVegetable
+24695,3,Bell Pepper,23,Tomato,0.832,False,False,FruitVegetable
+50615,9,Fries,4,Burger,0.8308,False,False,FastFood
+55128,19,Sandwich,1,Baked Potato,0.8302,False,False,FastFood
+8464,0,Apple,15,Orange,0.8297,False,True,FruitQuality1
+17909,0,Apple,11,Guava,0.8288,False,False,FruitVegetable
+13735,0,Apple,11,Guava,0.8274,False,False,FruitVegetable
+54279,16,Pizza,6,Crispy Chicken,0.8269,False,False,FastFood
+57877,21,Taco,22,Taquito,0.8261,False,False,FastFood
+380,0,Apple,14,Mango,0.8259,False,False,FruitQuality1
+52767,12,Hot Dog,4,Burger,0.8246,False,False,FastFood
+53703,16,Pizza,6,Crispy Chicken,0.822,False,False,FastFood
+61840,19,Sandwich,21,Taco,0.8217,False,False,FastFood
+62292,21,Taco,1,Baked Potato,0.8214,False,False,FastFood
+52603,12,Hot Dog,9,Fries,0.8213,False,False,FastFood
+37957,18,Potato,22,Taquito,0.8209,False,False,FruitVegetable
+44340,22,Taquito,21,Taco,0.8183,False,False,FastFood
+37844,18,Potato,9,Fries,0.8166,False,False,FruitVegetable
+62558,22,Taquito,18,Potato,0.8153,False,False,FastFood
+51654,9,Fries,6,Crispy Chicken,0.8125,False,False,FastFood
+52634,12,Hot Dog,1,Baked Potato,0.8061,False,False,FastFood
+51726,9,Fries,19,Sandwich,0.8049,False,False,FastFood
+58013,22,Taquito,12,Hot Dog,0.7992,False,False,FastFood
+53085,12,Hot Dog,8,Donut,0.7984,False,False,FastFood
+30197,14,Mango,0,Apple,0.7983,False,False,FruitVegetable
+49897,8,Donut,12,Hot Dog,0.7967,False,False,FastFood
+56726,21,Taco,8,Donut,0.796,False,False,FastFood
+24752,3,Bell Pepper,18,Potato,0.7956,False,False,FruitVegetable
+53587,16,Pizza,21,Taco,0.794,False,False,FastFood
+49893,8,Donut,1,Baked Potato,0.7927,False,False,FastFood
+55647,19,Sandwich,21,Taco,0.7893,False,False,FastFood
+13873,0,Apple,14,Mango,0.7891,False,False,FruitVegetable
+7974,0,Apple,2,Banana,0.7865,False,True,FruitQuality1
+57198,21,Taco,16,Pizza,0.7862,False,False,FastFood
+49650,8,Donut,4,Burger,0.7857,False,False,FastFood
+50733,9,Fries,16,Pizza,0.7851,False,False,FastFood
+56712,21,Taco,19,Sandwich,0.7802,False,False,FastFood
+13746,0,Apple,11,Guava,0.7795,False,False,FruitVegetable
+62798,22,Taquito,19,Sandwich,0.7763,False,False,FastFood
+56153,19,Sandwich,21,Taco,0.7742,False,False,FastFood
+62862,22,Taquito,8,Donut,0.7706,False,False,FastFood
+58268,22,Taquito,9,Fries,0.7689,False,False,FastFood
+61437,12,Hot Dog,8,Donut,0.7641,False,False,FastFood
+57746,21,Taco,4,Burger,0.7636,False,False,FastFood
+17896,0,Apple,23,Tomato,0.7614,False,False,FruitVegetable
+50641,9,Fries,21,Taco,0.7604,False,False,FastFood
+52739,12,Hot Dog,22,Taquito,0.7578,False,False,FastFood
+59035,22,Taquito,16,Pizza,0.7576,False,False,FastFood
+61288,12,Hot Dog,8,Donut,0.7531,False,False,FastFood
+47302,4,Burger,1,Baked Potato,0.7493,False,False,FastFood
+48501,6,Crispy Chicken,1,Baked Potato,0.7459,False,False,FastFood
+49922,8,Donut,4,Burger,0.7442,False,False,FastFood
+49942,8,Donut,18,Potato,0.741,False,False,FastFood
+44305,22,Taquito,21,Taco,0.7375,False,False,FastFood
+24808,3,Bell Pepper,21,Taco,0.7359,False,False,FruitVegetable
+24968,3,Bell Pepper,6,Crispy Chicken,0.7357,False,False,FruitVegetable
+38302,18,Potato,2,Banana,0.7348,False,False,FruitVegetable
+55389,19,Sandwich,1,Baked Potato,0.7323,False,False,FastFood
+46066,4,Burger,12,Hot Dog,0.7272,False,False,FastFood
+28058,11,Guava,18,Potato,0.7272,False,False,FruitVegetable
+53301,12,Hot Dog,8,Donut,0.727,False,False,FastFood
+32013,14,Mango,0,Apple,0.7266,False,False,FruitVegetable
+48619,6,Crispy Chicken,1,Baked Potato,0.7259,False,False,FastFood
+57714,21,Taco,19,Sandwich,0.724,False,False,FastFood
+58758,22,Taquito,21,Taco,0.7234,False,False,FastFood
+12800,15,Orange,18,Potato,0.7229,False,True,FruitQuality1
+43992,19,Sandwich,4,Burger,0.7227,False,False,FastFood
+52889,12,Hot Dog,21,Taco,0.721,False,False,FastFood
+62818,22,Taquito,21,Taco,0.719,False,False,FastFood
+7679,0,Apple,15,Orange,0.7178,False,True,FruitQuality1
+19155,2,Banana,14,Mango,0.7172,False,False,FruitVegetable
+45448,1,Baked Potato,16,Pizza,0.7149,False,False,FastFood
+48467,6,Crispy Chicken,1,Baked Potato,0.7146,False,False,FastFood
+58460,22,Taquito,9,Fries,0.7139,False,False,FastFood
+19084,2,Banana,5,Carrot,0.7123,False,False,FruitVegetable
+61835,19,Sandwich,16,Pizza,0.7122,False,False,FastFood
+52921,12,Hot Dog,4,Burger,0.7115,False,False,FastFood
+46019,4,Burger,1,Baked Potato,0.7114,False,False,FastFood
+47246,4,Burger,21,Taco,0.7096,False,False,FastFood
+32890,15,Orange,14,Mango,0.7096,False,False,FruitVegetable
+24950,3,Bell Pepper,23,Tomato,0.7093,False,False,FruitVegetable
+43741,12,Hot Dog,1,Baked Potato,0.7059,False,False,FastFood
+35884,15,Orange,14,Mango,0.7053,False,False,FruitVegetable
+45937,4,Burger,9,Fries,0.7051,False,False,FastFood
+56687,21,Taco,1,Baked Potato,0.7024,False,False,FastFood
+59332,22,Taquito,21,Taco,0.7024,False,False,FastFood
+38251,18,Potato,7,Cucumber,0.7012,False,False,FruitVegetable
+61915,19,Sandwich,21,Taco,0.6999,False,False,FastFood
+43681,12,Hot Dog,22,Taquito,0.6998,False,False,FastFood
+50779,9,Fries,5,Carrot,0.6996,False,False,FastFood
+47348,4,Burger,8,Donut,0.6992,False,False,FastFood
+59244,22,Taquito,21,Taco,0.6981,False,False,FastFood
+52798,12,Hot Dog,22,Taquito,0.6973,False,False,FastFood
+56447,21,Taco,22,Taquito,0.6905,False,False,FastFood
+57776,21,Taco,19,Sandwich,0.6893,False,False,FastFood
+58520,22,Taquito,1,Baked Potato,0.6885,False,False,FastFood
+43146,4,Burger,21,Taco,0.6884,False,False,FastFood
+24298,3,Bell Pepper,10,Grape,0.6877,False,False,FruitVegetable
+56769,21,Taco,2,Banana,0.6876,False,False,FastFood
+57047,21,Taco,22,Taquito,0.6873,False,False,FastFood
+44595,1,Baked Potato,4,Burger,0.6862,False,False,FastFood
+62526,22,Taquito,21,Taco,0.686,False,False,FastFood
+57189,21,Taco,1,Baked Potato,0.6836,False,False,FastFood
+57146,21,Taco,19,Sandwich,0.6829,False,False,FastFood
+57020,21,Taco,22,Taquito,0.6828,False,False,FastFood
+46038,4,Burger,21,Taco,0.6804,False,False,FastFood
+56303,19,Sandwich,4,Burger,0.6803,False,False,FastFood
+59098,22,Taquito,4,Burger,0.6801,False,False,FastFood
+58411,22,Taquito,1,Baked Potato,0.68,False,False,FastFood
+48966,8,Donut,6,Crispy Chicken,0.6793,False,False,FastFood
+53218,12,Hot Dog,19,Sandwich,0.6787,False,False,FastFood
+12695,15,Orange,8,Donut,0.6763,False,True,FruitQuality1
+24579,3,Bell Pepper,8,Donut,0.6755,False,False,FruitVegetable
+56686,21,Taco,8,Donut,0.673,False,False,FastFood
+62680,22,Taquito,21,Taco,0.6708,False,False,FastFood
+61315,12,Hot Dog,21,Taco,0.6695,False,False,FastFood
+17775,0,Apple,15,Orange,0.6694,False,False,FruitVegetable
+51803,9,Fries,4,Burger,0.6685,False,False,FastFood
+62281,21,Taco,12,Hot Dog,0.668,False,False,FastFood
+52552,12,Hot Dog,19,Sandwich,0.6654,False,False,FastFood
+61798,19,Sandwich,1,Baked Potato,0.6582,False,False,FastFood
+24731,3,Bell Pepper,23,Tomato,0.6569,False,False,FruitVegetable
+24678,3,Bell Pepper,18,Potato,0.6564,False,False,FruitVegetable
+32216,14,Mango,7,Cucumber,0.6533,False,False,FruitVegetable
+32672,15,Orange,14,Mango,0.6533,False,False,FruitVegetable
+24526,3,Bell Pepper,8,Donut,0.6532,False,False,FruitVegetable
+55651,19,Sandwich,7,Cucumber,0.6517,False,False,FastFood
+59471,1,Baked Potato,6,Crispy Chicken,0.6501,False,False,FastFood
+62217,21,Taco,22,Taquito,0.6496,False,False,FastFood
+28831,14,Mango,15,Orange,0.6495,False,False,FruitVegetable
+42693,23,Tomato,0,Apple,0.6482,False,False,FruitVegetable
+61639,16,Pizza,19,Sandwich,0.6475,False,False,FastFood
+59974,4,Burger,9,Fries,0.6393,False,False,FastFood
+32769,15,Orange,13,Jujube,0.6386,False,False,FruitVegetable
+53357,12,Hot Dog,21,Taco,0.6374,False,False,FastFood
+48794,6,Crispy Chicken,22,Taquito,0.6371,False,False,FastFood
+38422,18,Potato,8,Donut,0.6368,False,False,FruitVegetable
+58763,22,Taquito,8,Donut,0.6357,False,False,FastFood
+9083,0,Apple,11,Guava,0.6352,False,False,FruitQuality1
+56169,19,Sandwich,1,Baked Potato,0.6351,False,False,FastFood
+55157,19,Sandwich,22,Taquito,0.635,False,False,FastFood
+29694,14,Mango,2,Banana,0.6342,False,False,FruitVegetable
+11059,2,Banana,8,Donut,0.6338,False,False,FruitQuality1
+44097,19,Sandwich,12,Hot Dog,0.6329,False,False,FastFood
+32838,15,Orange,14,Mango,0.6297,False,False,FruitVegetable
+56568,21,Taco,12,Hot Dog,0.6276,False,False,FastFood
+37873,18,Potato,8,Donut,0.6256,False,False,FruitVegetable
+47183,4,Burger,19,Sandwich,0.6253,False,False,FastFood
+35765,15,Orange,0,Apple,0.6249,False,False,FruitVegetable
+24562,3,Bell Pepper,8,Donut,0.6227,False,False,FruitVegetable
+56950,21,Taco,4,Burger,0.6225,False,False,FastFood
+41853,23,Tomato,8,Donut,0.6221,False,False,FruitVegetable
+12614,15,Orange,18,Potato,0.622,False,True,FruitQuality1
+30240,14,Mango,17,Pomegranate,0.6219,False,False,FruitVegetable
+47849,6,Crispy Chicken,16,Pizza,0.6214,False,False,FastFood
+46645,4,Burger,19,Sandwich,0.6205,False,False,FastFood
+55640,19,Sandwich,22,Taquito,0.6196,False,False,FastFood
+46837,4,Burger,19,Sandwich,0.6174,False,False,FastFood
+44452,1,Baked Potato,0,Apple,0.6172,False,False,FastFood
+58729,22,Taquito,21,Taco,0.6172,False,False,FastFood
+55140,19,Sandwich,4,Burger,0.6164,False,False,FastFood
+56787,21,Taco,1,Baked Potato,0.6157,False,False,FastFood
+52626,12,Hot Dog,1,Baked Potato,0.6149,False,False,FastFood

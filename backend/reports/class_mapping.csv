@@ -1,0 +1,25 @@
+class_id,food,n_images,train,val,test,sources,fdc_ids,n_fdc_ids,flags
+0,Apple,6158,4311,923,924,"FruitQuality1, FruitVegetable",171688,1,OK
+1,Baked Potato,1834,1284,276,274,FastFood,170093,1,OK
+2,Banana,6235,4365,936,934,"FruitQuality1, FruitVegetable",173944,1,OK
+3,Bell Pepper,1147,803,173,171,FruitVegetable,170427,1,OK
+4,Burger,1938,1357,291,290,FastFood,170693,1,OK
+5,Carrot,1116,782,168,166,FruitVegetable,170393,1,OK
+6,Crispy Chicken,1929,1353,289,287,FastFood,170343,1,OK
+7,Cucumber,1167,817,176,174,FruitVegetable,168409,1,OK
+8,Donut,1972,1381,296,295,FastFood,174990,1,OK
+9,Fries,1772,1241,267,264,FastFood,169836,1,OK
+10,Grape,400,280,60,60,FruitVegetable,174683,1,LOW_DATA(<500)
+11,Guava,400,280,60,60,FruitVegetable,173044,1,LOW_DATA(<500)
+12,Hot Dog,1952,1368,293,291,FastFood,171633,1,OK
+13,Jujube,400,280,60,60,FruitVegetable,168151,1,LOW_DATA(<500)
+14,Mango,3193,2236,479,478,FruitVegetable,169910,1,OK
+15,Orange,4950,3468,743,739,"FruitQuality1, FruitVegetable",169097,1,OK
+16,Pizza,1964,1375,295,294,FastFood,170317,1,OK
+17,Pomegranate,400,280,60,60,FruitVegetable,169134,1,LOW_DATA(<500)
+18,Potato,1174,822,177,175,FruitVegetable,170026,1,OK
+19,Sandwich,1955,1369,294,292,FastFood,170309,1,OK
+20,Strawberry,2581,1807,388,386,FruitVegetable,167762,1,OK
+21,Taco,1971,1380,296,295,FastFood,170689,1,OK
+22,Taquito,1893,1326,284,283,FastFood,169771,1,OK
+23,Tomato,1176,824,177,175,FruitVegetable,170457,1,OK

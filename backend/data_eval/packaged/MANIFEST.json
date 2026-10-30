@@ -1,0 +1,738 @@
+[
+ {
+  "barcode": "3017620425035",
+  "country": "united-kingdom",
+  "product_name": "Nutella",
+  "brands": "Nutella, FERRERO FRANCE COMMERCIALE",
+  "quantity": "1 kg",
+  "ingredients_text": "Sucre, huile de palme, NOISETTES 13%, LAIT écrémé en poudre 8,7%, cacao maigre 7,4%, émulsifiants: lécithines [SOJA]; vanilline. Sans gluten",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 539,
+   "protein_g": 6.3,
+   "carbohydrate_g": 57.5,
+   "total_sugars_g": 56.3,
+   "total_fat_g": 30.9,
+   "saturated_fat_g": 10.6,
+   "sodium_g": 0.0428
+  },
+  "source_page": "https://world.openfoodfacts.org/product/3017620425035",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/301/762/042/5035/front_en.583.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/301/762/042/5035/ingredients_en.670.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/301/762/042/5035/nutrition_en.588.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "50184453",
+  "country": "united-kingdom",
+  "product_name": "Yeast Extract",
+  "brands": "Marmite",
+  "quantity": "250 gram",
+  "ingredients_text": "yeast extract, barley, wheat, oats, rye, salt, vegetable juice concentrate, thiamin, riboflavin, niacin, vitamin B12, folic acid, natural flavouring, celery",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 260,
+   "protein_g": 34,
+   "carbohydrate_g": 30,
+   "total_sugars_g": 1.2,
+   "saturated_fat_g": 0,
+   "sodium_g": 4.249
+  },
+  "source_page": "https://world.openfoodfacts.org/product/50184453",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/000/005/018/4453/front_en.126.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/000/005/018/4453/ingredients_en.67.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/000/005/018/4453/nutrition_en.41.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "5449000000996",
+  "country": "united-kingdom",
+  "product_name": "Coca-Cola Original",
+  "brands": "COCA-COLA SERVICES SA/NV",
+  "quantity": "330 ml",
+  "ingredients_text": "Agua carbonatada, azúcar, colorante (E-150d), acidulante (ácido fosfórico), aromas naturales (contiene cafeína).",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 42.4,
+   "protein_g": 0,
+   "carbohydrate_g": 10.6,
+   "total_sugars_g": 10.6,
+   "total_fat_g": 0,
+   "saturated_fat_g": 0,
+   "sodium_g": 0
+  },
+  "source_page": "https://world.openfoodfacts.org/product/5449000000996",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/544/900/000/0996/front_en.1129.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/544/900/000/0996/ingredients_en.1172.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/544/900/000/0996/nutrition_en.1173.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901499010216",
+  "country": "india",
+  "product_name": "Corn Flakes1.20 kg",
+  "brands": "Kellogg's",
+  "quantity": "260g",
+  "ingredients_text": "Corn Grits (90%), Sugar, Cereal Extract, Iodized Salt, Vitamins, Minerals and Antioxidant (INS 307b). CONTAINS GLUTEN. MAY CONTAIN TRACES OF TREENUT.",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 378,
+   "protein_g": 6.7,
+   "carbohydrate_g": 86.9,
+   "total_sugars_g": 9.2,
+   "total_fat_g": 1,
+   "saturated_fat_g": 0.6,
+   "dietary_fibre_g": 2.5,
+   "sodium_g": 0.49
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901499010216",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/149/901/0216/front_en.35.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/149/901/0216/ingredients_en.39.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/149/901/0216/nutrition_en.40.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8902080364565",
+  "country": "india",
+  "product_name": "Mountain Dew",
+  "brands": "MEWATI 🔔",
+  "quantity": "1.25 l",
+  "ingredients_text": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330, 331), FLAVOUR (NATURAL FLAVOURING SUBSTANCES), PRESERVATIVE (211), CAFFEINE (1,3 mg/100 g), STABILIZERS (445), COULOUR (102)",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 49,
+   "protein_g": 0,
+   "carbohydrate_g": 12.3,
+   "total_sugars_g": 12.3,
+   "total_fat_g": 0,
+   "saturated_fat_g": 0,
+   "sodium_g": 0.008
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8902080364565",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/208/036/4565/front_en.20.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/208/036/4565/ingredients_en.21.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/208/036/4565/nutrition_en.23.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901047816208",
+  "country": "india",
+  "product_name": "Dal Makhani",
+  "brands": "Kohinoor",
+  "quantity": "300g",
+  "ingredients_text": "Water, Black Gram Lentils (33.3%), Tomato (8.4%), Red Kidney Beans (4%), Sunflower Oil, Garlic, Salt, Ginger (0.6%), Cumin Powder, Garam Masala, Red Chilli powder, Fenugreek Leaves, Cinnamon, Cardamom, Bay leaf, Nutmeg Powder, Mace Powder",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 91,
+   "protein_g": 5.1,
+   "carbohydrate_g": 9.1,
+   "total_sugars_g": 1,
+   "total_fat_g": 2.9,
+   "saturated_fat_g": 0.4,
+   "dietary_fibre_g": 4.2,
+   "sodium_g": 0.283
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901047816208",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/104/781/6208/front_en.12.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/104/781/6208/ingredients_en.25.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/104/781/6208/nutrition_en.18.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901491101837",
+  "country": "india",
+  "product_name": "Lays Classics Salted 20rs",
+  "brands": "Lay's",
+  "quantity": "50g",
+  "ingredients_text": "Potato, Edible Vegetable Oil\n\n(Palmolein Oil), &quot;Seasoning (Maltodextrin, lodised Salt, &quot;Spices & Condiments, Sugar, Flavour (Natural and Nature Identical Flavouring Substances), Anticaking Agent (551), Flavour Enhancers (627, 631), Edible Vegetable Oil (Palm)).\n\n&quot;As flavouring agent. &quot;Contains Onion & Garlic",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 554,
+   "protein_g": 7,
+   "carbohydrate_g": 51.7,
+   "total_sugars_g": 2.6,
+   "total_fat_g": 35.5,
+   "saturated_fat_g": 14,
+   "dietary_fibre_g": 0,
+   "sodium_g": 0.204
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901491101837",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/149/110/1837/front_en.26.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/149/110/1837/ingredients_en.7.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/149/110/1837/nutrition_en.16.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901764032271",
+  "country": "india",
+  "product_name": "Sprite 750ml",
+  "brands": "coca cola",
+  "quantity": "750 ml",
+  "ingredients_text": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330, 331(i)), PRESERVATIVE(211), SWEETENER (960), FLAVOURS (NATURAL FLAVORING SUBSTANCES)",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 40,
+   "protein_g": 0,
+   "carbohydrate_g": 10,
+   "total_sugars_g": 9.8,
+   "total_fat_g": 0,
+   "saturated_fat_g": 0,
+   "dietary_fibre_g": 0,
+   "sodium_g": 0.014
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901764032271",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/176/403/2271/front_en.101.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/176/403/2271/ingredients_en.53.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/176/403/2271/nutrition_en.56.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901719125478",
+  "country": "india",
+  "product_name": "Parle-G gold 75g",
+  "brands": "Parle",
+  "quantity": "50 g",
+  "ingredients_text": "REFINED WHEAT FLOUR (MAIDA) (68%), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP* [SUGAR, CITRIC ACID], IODISED SALT, RAISING AGENTS [503 (ii), 500 (ii)], MILK SOLIDS, FLOUR TREATMENT AGENT [1101 (ii)] AND EMULSIFIER OF VEGETABLE ORIGIN [472e] CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES VANILLA) (D-GLUCOSE, LEVULOSE) CONTAINS: WHEAT, MILK",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 454,
+   "protein_g": 6.9,
+   "carbohydrate_g": 77.3,
+   "total_sugars_g": 25.5,
+   "total_fat_g": 13,
+   "saturated_fat_g": 6,
+   "dietary_fibre_g": 0,
+   "sodium_g": 0.296
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901719125478",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/171/912/5478/front_en.7.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/171/912/5478/ingredients_en.9.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/171/912/5478/nutrition_en.11.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901491502030",
+  "country": "india",
+  "product_name": "Lay's American Style Cream & Onion Flavour",
+  "brands": "Lay's",
+  "quantity": "12.3g",
+  "ingredients_text": "Potato, Edible Vegetable Oil (Palmolein, Sunflower Oil), 'Seasoning (Sugar, iodised Salt, Milk Solids, ^Spices & Condiments, Maltodextrin, Flavour (Natural and Nature Identical Flavouring Substances), Cheese Powder, Hydrolysed Vegetable Protein, Flavour Enhancers (627, 631), Edible Vegetable Oil (Palm, Coconut), Anticaking Agent (551)).Contains Onion ALLERGEN ADVICE: Contains _Soy_, _Milk_ May Contain _Sulphite_\n'As flavouring agent ,^Contsins onion",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 537,
+   "protein_g": 6.7,
+   "carbohydrate_g": 53,
+   "total_sugars_g": 3.4,
+   "total_fat_g": 33.1,
+   "saturated_fat_g": 14.9,
+   "sodium_g": 0.643
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901491502030",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/149/150/2030/front_en.19.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/149/150/2030/ingredients_en.23.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/149/150/2030/nutrition_en.13.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901030922787",
+  "country": "india",
+  "product_name": "Mixed Fruit Jam",
+  "brands": "Kissan",
+  "quantity": "90g",
+  "ingredients_text": "SUGAR, MIXED FRUIT PULP BLEND-60% (PAPAYA PULP, PEAR PULP, APPLE JUICE, BANANA PULP, PINEAPPLE JUICE, ORANGE JUICE, MANGO PULP, GRAPE JUICE), ACIDITY REGULATOR-E330, THICKENER-E440, IODISED SALT, VITAMINS & MINERAL, PRESERVATIVE-E202, NATURAL FLAVOURING SUBSTANCES, FOOD COLOUR-E122.",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 285.3,
+   "protein_g": 0.3,
+   "carbohydrate_g": 70.5,
+   "total_sugars_g": 68.1,
+   "total_fat_g": 0.1,
+   "saturated_fat_g": 0,
+   "dietary_fibre_g": 0.7,
+   "sodium_g": 0.051
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901030922787",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/103/092/2787/front_en.3.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/103/092/2787/ingredients_en.10.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/103/092/2787/nutrition_en.11.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8904043901015",
+  "country": "india",
+  "product_name": "Tata Salt",
+  "brands": "Tata",
+  "quantity": "1 kg",
+  "ingredients_text": "Edible Common Salt, Potassium Iodate (2mg) and Anticaking Agent (INS 536)",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 0,
+   "protein_g": 0,
+   "carbohydrate_g": 0,
+   "total_sugars_g": 0,
+   "total_fat_g": 0,
+   "saturated_fat_g": 0,
+   "dietary_fibre_g": 0,
+   "sodium_g": 0
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8904043901015",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/404/390/1015/front_en.34.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/404/390/1015/ingredients_en.36.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/404/390/1015/nutrition_en.38.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901233030548",
+  "country": "india",
+  "product_name": "Cadbury Dairy Milk",
+  "brands": "Mondelez",
+  "quantity": "13.2 g",
+  "ingredients_text": "Sugar, Milk Solids16%, Cocoa Butter, Cocoa Solids, Lactose, Emulsifiers 442, 476",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 527,
+   "protein_g": 5.6,
+   "carbohydrate_g": 64.2,
+   "total_sugars_g": 61,
+   "total_fat_g": 27.9,
+   "saturated_fat_g": 18.7,
+   "dietary_fibre_g": 0,
+   "sodium_g": 0.0923
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901233030548",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/123/303/0548/front_en.16.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/123/303/0548/ingredients_en.20.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/123/303/0548/nutrition_en.18.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901058901511",
+  "country": "india",
+  "product_name": "2-minute Noodles Masala",
+  "brands": "Maggi",
+  "quantity": "",
+  "ingredients_text": "refined wheat flour, palm oil, calcium carbonate, potassium chloride, sodium phosphate, potassium carbonate, sodium carbonate, guar gum",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 427,
+   "protein_g": 8,
+   "carbohydrate_g": 63.5,
+   "total_sugars_g": 2.2,
+   "total_fat_g": 15.7,
+   "saturated_fat_g": 6.8,
+   "dietary_fibre_g": 3.6,
+   "sodium_g": 0.4688
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901058901511",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/105/890/1511/front_en.26.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/105/890/1511/ingredients_en.11.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/105/890/1511/nutrition_en.20.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL",
+  "review_note": "ingredients image is a front photo (OFF selection); nutrition image is usable"
+ },
+ {
+  "barcode": "8901764092206",
+  "country": "india",
+  "product_name": "Maaza",
+  "brands": "Mazza, The Coca-Cola Company",
+  "quantity": "600 ml",
+  "ingredients_text": "WATER, MANGO PULP (19.5%), SUGAR, ACIDITY REGULATORS (330, 331(iii)), ANTIOXIDANT (300), PRESERVATIVE (202), COLOUR (110), MANGO FLAVOURS (NATURAL, NATURE-IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES).",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 63,
+   "protein_g": 0,
+   "carbohydrate_g": 15.8,
+   "total_sugars_g": 14.9,
+   "total_fat_g": 0,
+   "sodium_g": 0.0249
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901764092206",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/176/409/2206/front_en.86.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/176/409/2206/ingredients_en.71.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/176/409/2206/nutrition_en.79.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901764042270",
+  "country": "india",
+  "product_name": "Thumbs Up 750ml",
+  "brands": "Coca Cola Company",
+  "quantity": "24",
+  "ingredients_text": "CARBONATED WATER, SUGAR, ACIDITY REGULATOR (338), CAFFEINE (8.3 mg/100 g), COLOUR (1506) FLAVOURS (NATURAL, NATURE-IDENTICAL & ARTIFICIAL (COLA) FLAVOURING SUBSTANCES). &quot;CONTAINS CAFFEINE&quot;",
+  "nutrition_data_per": "100ml",
+  "reference_per_100g": {
+   "energy_kcal": 36,
+   "protein_g": 0,
+   "carbohydrate_g": 9,
+   "total_sugars_g": 9,
+   "total_fat_g": 0,
+   "saturated_fat_g": 0,
+   "sodium_g": 0
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901764042270",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/176/404/2270/front_en.46.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/176/404/2270/ingredients_en.54.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/176/404/2270/nutrition_en.27.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901063017252",
+  "country": "india",
+  "product_name": "50-50",
+  "brands": "Britannia",
+  "quantity": "50g",
+  "ingredients_text": "REFINED WHEAT FLOUR (MAIDA), EDIBLE VEGETABLE OIL (PALM) SUGAR, LIQUID GLUCOSE, RAISING AGENTS 503(), 500(i), 450(1)1, BUTTER (1.2%), BLACK SALT, MILK SOLIDS, EDIBLE VEGETABLE PRODUCT (1%), IODISED SALT, ACIDITY REGULATOR (341(ii), DOUGH CONDITIONER (223) AND IMPROVER [1101(i)]. CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCE (BUTTER)]. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SULPHITE.",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 502,
+   "protein_g": 7,
+   "carbohydrate_g": 60,
+   "total_sugars_g": 10,
+   "total_fat_g": 26,
+   "saturated_fat_g": 13
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901063017252",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/106/301/7252/front_en.57.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/106/301/7252/ingredients_en.54.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/106/301/7252/nutrition_en.21.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8902080000227",
+  "country": "india",
+  "product_name": "Sting Energy",
+  "brands": "Sting",
+  "quantity": "1",
+  "ingredients_text": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330, 331), SEQUESTERANTS (452(1), 385),TAURINE, CAFFEINE (0.03%), PRESERVATIVES (211, 202), SWEETENERS (955, 950), INOSITOL, VITAMINS PREMIX. CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (129) AND ADDED FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 28,
+   "protein_g": 0,
+   "carbohydrate_g": 7,
+   "total_sugars_g": 17,
+   "total_fat_g": 0,
+   "saturated_fat_g": 0,
+   "sodium_g": 0.053
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8902080000227",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/208/000/0227/front_en.81.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/208/000/0227/ingredients_en.38.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/208/000/0227/nutrition_en.40.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901063093522",
+  "country": "india",
+  "product_name": "Good Day - Cashew Cookies",
+  "brands": "Britannia",
+  "quantity": "52.5 g",
+  "ingredients_text": "INGREDIENTS REFINED WHEAT FLOUR (MAIDA), EDIBLE VEGETABLE OIL (PALM), SUGAR, CASHEW NUTS (4.5%), INVERT SYRUP, MILK SOLIDS, BUTTER (96%), RAISING AGENTS (503&5000TH 100ISED SALT AND EMULSIFIERS (322,471,472) CONTAINS ADDED FLAVOURS (NATURE IDENTICAL AND ARTIFICIAL (MILK AND VANILLA) FLAVOURING SUBSTANCES! (Numbers in brackets as per laternational Numbering System) CONTAINS WHEAT, NUTS, MILK AND SOYA.",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 512,
+   "protein_g": 7,
+   "carbohydrate_g": 67,
+   "total_sugars_g": 22,
+   "total_fat_g": 24,
+   "saturated_fat_g": 11,
+   "dietary_fibre_g": 0,
+   "sodium_g": 0
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901063093522",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/106/309/3522/front_en.28.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/106/309/3522/ingredients_en.10.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/106/309/3522/nutrition_en.12.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901491101813",
+  "country": "india",
+  "product_name": "Lays american cream onion",
+  "brands": "Lay's, PepsiCo",
+  "quantity": "55 g",
+  "ingredients_text": "Potato (83%). Edible Vegetable Oil&quot;.\n\n*Seasoning (Sugar, lodised Salt, Milk Solids (1.2%), Spices and Condiments, Maltodextrin, Flavour (Natural and Nature Identical Flavouring Substances), Cheese Powder (0.3%), Hydrolysed Vegetable Protein, Flavour Enhancers (627, 631), Edible Vegetable Oil (Palm, Coconut)).\n\nAs flavouring agent.\n\nTo know the specific type of oil used and its saturated fat value, match the symbol or # with the last character of batch number where ◊ denotes Palmolein and # denotes Rice Bran Oil.",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 537,
+   "protein_g": 6.7,
+   "carbohydrate_g": 53,
+   "total_sugars_g": 3.4,
+   "total_fat_g": 33.1,
+   "saturated_fat_g": 12.5,
+   "sodium_g": 0.643
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901491101813",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/149/110/1813/front_en.40.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/149/110/1813/ingredients_en.32.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/149/110/1813/nutrition_en.30.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901764032905",
+  "country": "india",
+  "product_name": "Sprite",
+  "brands": "Coca cola, Sprite",
+  "quantity": "2.25l",
+  "ingredients_text": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330, 331(iii)), PRESERVATIVE (211), SWEETENER (960), FLAVOURS (NATURAL FLAVOURING SUBSTANCES).",
+  "nutrition_data_per": "100ml",
+  "reference_per_100g": {
+   "energy_kcal": 40,
+   "protein_g": 0,
+   "carbohydrate_g": 10,
+   "total_sugars_g": 9.8,
+   "total_fat_g": 0,
+   "saturated_fat_g": 0,
+   "sodium_g": 0.014
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901764032905",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/176/403/2905/front_en.28.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/176/403/2905/ingredients_en.29.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/176/403/2905/nutrition_en.30.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901719128462",
+  "country": "india",
+  "product_name": "Parle-G",
+  "brands": "Britannia, Parle",
+  "quantity": "100g",
+  "ingredients_text": "REFINED WHEAT FLOUR (MAIDA ) - 68%, SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP# [SUGAR, CITRIC ACID], IODISED SALT, RAISING AGENTS [503 (ii), 500 (ii)], MILK SOLIDS, FLOUR TREATMENT AGENT [1101 (i)] AND EMULSIFIER OF VEGETABLE ORIGIN [472e], CONTAINS ADDED FLAVOUR ( ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA) (D-GLUCOSE, LEVULOSE)",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 454,
+   "protein_g": 6.9,
+   "carbohydrate_g": 77.3,
+   "total_sugars_g": 25.5,
+   "total_fat_g": 13,
+   "saturated_fat_g": 6,
+   "sodium_g": 0.296
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901719128462",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/171/912/8462/front_en.10.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/171/912/8462/ingredients_en.12.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/171/912/8462/nutrition_en.14.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8902080001286",
+  "country": "india",
+  "product_name": "Pepsi black",
+  "brands": "Pepsi",
+  "quantity": "500ml",
+  "ingredients_text": "CARBONATED WATER, COLOUR (150d), ACIDITY REGULATORS (338,330), SWEETENERS (955, 950), PRESERVATIVE (211), CAFFEINE (13mg/100g), FLAVOUR (NATURAL FLAVOURING SUBSTANCES), STABILIZER (436).",
+  "nutrition_data_per": "100ml",
+  "reference_per_100g": {
+   "energy_kcal": 0,
+   "protein_g": 0,
+   "carbohydrate_g": 0,
+   "total_sugars_g": 0,
+   "total_fat_g": 0,
+   "saturated_fat_g": 0,
+   "sodium_g": 0.006
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8902080001286",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/208/000/1286/front_en.7.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/208/000/1286/ingredients_en.13.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/208/000/1286/nutrition_en.9.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901764032912",
+  "country": "india",
+  "product_name": "Sprite",
+  "brands": "Coca-Cola, Sprite",
+  "quantity": "250 ml",
+  "ingredients_text": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330, 331(iii)), PRESERVATIVE (211), SWEETENER(960), FLAVOURS (NATURAL FLAVORING SUBSTANCES).",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 40,
+   "protein_g": 0,
+   "carbohydrate_g": 10,
+   "total_sugars_g": 9.8,
+   "total_fat_g": 0,
+   "saturated_fat_g": 0,
+   "sodium_g": 0.014
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901764032912",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/176/403/2912/front_en.48.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/176/403/2912/ingredients_en.50.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/176/403/2912/nutrition_en.52.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901764042911",
+  "country": "india",
+  "product_name": "Thums up",
+  "brands": "Thums up",
+  "quantity": "250 ml",
+  "ingredients_text": "Carbonated water, sugar, acidity regulator (338), caffeine (8.1 mg/100 g), sweetener (960), colour (150 d), flavours (natural, nature-identical & artificial (cola) flavouring substances).",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 39,
+   "protein_g": 0,
+   "carbohydrate_g": 9.7,
+   "total_sugars_g": 9.5,
+   "total_fat_g": 0,
+   "saturated_fat_g": 0,
+   "dietary_fibre_g": 0,
+   "sodium_g": 0.022
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901764042911",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/176/404/2911/front_en.41.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/176/404/2911/ingredients_en.47.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/176/404/2911/nutrition_en.49.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901262260121",
+  "country": "india",
+  "product_name": "Amul Taaza Milky Milk",
+  "brands": "Amul, Amul taaza",
+  "quantity": "500 ml",
+  "ingredients_text": "PASTEURISED HOMOGENISED TONED MILK",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 62,
+   "protein_g": 3,
+   "carbohydrate_g": 4.7,
+   "total_sugars_g": 4.7,
+   "total_fat_g": 3.5,
+   "saturated_fat_g": 2.1,
+   "sodium_g": 0.04
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901262260121",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/126/226/0121/front_en.52.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/126/226/0121/ingredients_en.54.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/126/226/0121/nutrition_en.56.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8906002482481",
+  "country": "india",
+  "product_name": "Snickers",
+  "brands": "Mars",
+  "quantity": "22 g",
+  "ingredients_text": "Milk chocolate (36.5%): Sugar, Milk solids, Cocoa butter. Cocoa solids, Edible vegetable fats &lt;5% (Sal fat, Palm oil), Dextrose, Emulsifier (322); Centre filling (63.5%): Liquid glucose, Peanuts (18%), Sugar, Fractionated vegetable fat, Milk solids, lodized salt, Cocoa butter, Cocoa solids, Edible vegetable fats &lt;5% (Sal fat, Palm oil), Dextrose, Emulsifier (322).\nCONTAINS COCOA BUTTER EQUIVALENT IN ADDITION TO COCOA BUTTER. \nContains Peanuts, Milk & Soy. \nMay contain Treenuts.",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 479.9,
+   "protein_g": 7.8,
+   "carbohydrate_g": 61,
+   "total_sugars_g": 55,
+   "total_fat_g": 23.3,
+   "saturated_fat_g": 9.9,
+   "sodium_g": 0.244
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8906002482481",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/600/248/2481/front_en.40.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/600/248/2481/ingredients_en.42.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/600/248/2481/nutrition_en.44.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8901491100519",
+  "country": "india",
+  "product_name": "Kurkure",
+  "brands": "Kurkure",
+  "quantity": "78 g",
+  "ingredients_text": "Cereal Products (66%) (Rice Meal (43.5%), Corn Meal (23%)), Edible Vegetable Oil (Palmolein),*Seasoning (~Spices and Condiments, lodised Salt, Sugar, Flavour (Natural and Nature Identical Flavouring Substances), Black Salt, Tomato Powder, Acidity Regulators (330, 296, 334), Colour(160c), Maltodextrin) , Gram Meal (0.5%).",
+  "nutrition_data_per": "100g",
+  "reference_per_100g": {
+   "energy_kcal": 557,
+   "protein_g": 6,
+   "carbohydrate_g": 57.7,
+   "total_sugars_g": 2.2,
+   "total_fat_g": 33.7,
+   "saturated_fat_g": 7.7,
+   "dietary_fibre_g": 0,
+   "sodium_g": 0.796
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8901491100519",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/149/110/0519/front_en.48.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/149/110/0519/ingredients_en.50.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/149/110/0519/nutrition_en.61.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ },
+ {
+  "barcode": "8902080364022",
+  "country": "india",
+  "product_name": "Mountain Dew",
+  "brands": "PepsiCo",
+  "quantity": "250 ml",
+  "ingredients_text": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330 ,331), FLAVOUR (NATURAL FLAVOURING SUBSTANCES), PRESERVATIVE (211), CAFFEINE (13 mg/100 g), STABILIZER (445), COLOUR (102).",
+  "nutrition_data_per": "100ml",
+  "reference_per_100g": {
+   "energy_kcal": 49,
+   "protein_g": 0,
+   "carbohydrate_g": 12.3,
+   "total_sugars_g": 12.3,
+   "total_fat_g": 0,
+   "saturated_fat_g": 0,
+   "dietary_fibre_g": 0,
+   "sodium_g": 0.008
+  },
+  "source_page": "https://world.openfoodfacts.org/product/8902080364022",
+  "image_urls": {
+   "front": "https://images.openfoodfacts.org/images/products/890/208/036/4022/front_en.6.full.jpg",
+   "ingredients": "https://images.openfoodfacts.org/images/products/890/208/036/4022/ingredients_en.26.full.jpg",
+   "nutrition": "https://images.openfoodfacts.org/images/products/890/208/036/4022/nutrition_en.12.full.jpg"
+  },
+  "license": "Images: CC BY-SA 3.0, contributors of Open Food Facts; data: ODbL"
+ }
+]

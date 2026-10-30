@@ -1,0 +1,7 @@
+check,result,detail,type
+image_id unique,PASS,0 duplicates,hard
+"every image has a split in {train,val,test}",PASS,0 invalid,hard
+no group_id crosses splits,PASS,"0 groups cross splits of 36,777",hard
+no byte-identical image (SHA-256) crosses splits,PASS,0 hashes cross splits,hard
+no augmentation family (recomputed from filenames) crosses splits,PASS,"0 families cross splits of 40,611",hard
+near-duplicate pairs (dHash distance <= 2) crossing splits,PASS,"0 of 18,562 near-duplicate pairs cross splits",soft

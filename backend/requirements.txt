@@ -1,0 +1,11 @@
+# Minimal API only. TensorFlow, OCR and database packages are added in later phases.
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic-settings>=2.4
+openai>=1.75.0
+# Upload parsing (needed by /api/analyze/*) and tests
+python-multipart>=0.0.9
+pytest>=8
+httpx>=0.27
+# Packaged-food OCR uses the Tesseract program (install separately); no extra Python package is needed.
+# The Gemini chatbot uses the standard library; no extra Python package is needed.

@@ -1,0 +1,131 @@
+{
+  "split": "val",
+  "subsets": {
+    "all": {
+      "n": 480,
+      "accuracy": 0.7333333333333333,
+      "top3_accuracy": 0.9,
+      "macro_precision": 0.7294058693502596,
+      "macro_recall": 0.7333333333333334,
+      "macro_f1": 0.7240051798117886,
+      "weighted_f1": 0.7240051798117886,
+      "log_loss": 0.9100049138069153,
+      "mean_top1_confidence": 0.6396123170852661,
+      "top_confusions": [
+        {
+          "true": "Sandwich",
+          "predicted_as": "Burger",
+          "images": 5
+        },
+        {
+          "true": "Taquito",
+          "predicted_as": "Sandwich",
+          "images": 4
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Taquito",
+          "images": 4
+        },
+        {
+          "true": "Taquito",
+          "predicted_as": "Taco",
+          "images": 4
+        },
+        {
+          "true": "Baked Potato",
+          "predicted_as": "Pizza",
+          "images": 4
+        },
+        {
+          "true": "Potato",
+          "predicted_as": "Mango",
+          "images": 3
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Sandwich",
+          "images": 3
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Pizza",
+          "images": 3
+        },
+        {
+          "true": "Guava",
+          "predicted_as": "Pomegranate",
+          "images": 3
+        },
+        {
+          "true": "Crispy Chicken",
+          "predicted_as": "Taco",
+          "images": 3
+        }
+      ]
+    },
+    "original_only": {
+      "n": 442,
+      "accuracy": 0.7307692307692307,
+      "top3_accuracy": 0.8936651583710408,
+      "macro_precision": 0.7185188273989761,
+      "macro_recall": 0.7233974358974359,
+      "macro_f1": 0.7108754960187683,
+      "weighted_f1": 0.7205723198229324,
+      "log_loss": 0.929710865020752,
+      "mean_top1_confidence": 0.6379255056381226,
+      "top_confusions": [
+        {
+          "true": "Sandwich",
+          "predicted_as": "Burger",
+          "images": 5
+        },
+        {
+          "true": "Taquito",
+          "predicted_as": "Taco",
+          "images": 4
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Taquito",
+          "images": 4
+        },
+        {
+          "true": "Taquito",
+          "predicted_as": "Sandwich",
+          "images": 4
+        },
+        {
+          "true": "Baked Potato",
+          "predicted_as": "Pizza",
+          "images": 4
+        },
+        {
+          "true": "Potato",
+          "predicted_as": "Mango",
+          "images": 3
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Sandwich",
+          "images": 3
+        },
+        {
+          "true": "Taco",
+          "predicted_as": "Pizza",
+          "images": 3
+        },
+        {
+          "true": "Guava",
+          "predicted_as": "Pomegranate",
+          "images": 3
+        },
+        {
+          "true": "Crispy Chicken",
+          "predicted_as": "Taco",
+          "images": 3
+        }
+      ]
+    }
+  }
+}

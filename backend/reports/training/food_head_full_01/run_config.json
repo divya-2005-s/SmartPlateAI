@@ -1,0 +1,34 @@
+{
+  "run_name": "food_head_full_01",
+  "stage": "head",
+  "generated": "2026-10-11 16:24:23",
+  "image_size": 224,
+  "batch_size": 32,
+  "epochs_requested": 8,
+  "epochs_run": 8,
+  "learning_rate": 0.001,
+  "seed": 42,
+  "dropout": 0.2,
+  "patience": 3,
+  "subset_caps": {
+    "train": 0,
+    "val": 0
+  },
+  "class_weight_source": "reports/phase3/class_weights.json",
+  "train_images": 34745,
+  "val_images": 7456,
+  "train_seconds": 5305.4,
+  "train_images_per_second": 52.39,
+  "finetune": null,
+  "init_model": null,
+  "manifest_sha256": "d794734c1621b9a7a21d92f557dd9950dc15540bdd890894626bacb83edb4fcd",
+  "class_weights_sha256": "fcc6487cf69dcd74565fd4c65c2ac585a2a5177e7c039bba4b69b108930fc258",
+  "tensorflow": "2.19.1",
+  "python": "3.12.10",
+  "numpy": "2.1.3",
+  "pandas": "3.0.6",
+  "devices": [
+    "CPU"
+  ],
+  "determinism_note": "seeds fixed; CPU multi-threading can still cause small run-to-run differences"
+}

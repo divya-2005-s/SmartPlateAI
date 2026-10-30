@@ -1,0 +1,57 @@
+# Option A deployment: one small Linux VM (x86-64, >= 2 GB RAM) running the app behind Caddy, which obtains and renews
+# the HTTPS certificate automatically. Only ports 80/443 (Caddy) are published; the app port is internal.
+#   1. point a domain's DNS A record at the VM, set SITE_DOMAIN in deploy/.env (see DEPLOYMENT.md)
+#   2. copy deploy/smartplate.env.example to deploy/smartplate.env and fill in the keys ON THE SERVER
+#   3. docker compose -f deploy/docker-compose.yml up -d --build
+# deploy/.env (read by Compose for the ${...} values below): SITE_DOMAIN=<your-domain>, and optionally
+# SMARTPLATE_NET=<first three octets of a free /24> if 172.31.240.0/24 is already used on the VM (DEPLOYMENT.md section 5).
+name: smartplate                        # fixed project name -> volumes are smartplate_smartplate-data, smartplate_caddy-data
+x-logging: &logging
+  driver: json-file
+  options:                              # Docker keeps logs forever by default; cap them at 5 x 10 MB per container
+    max-size: "10m"
+    max-file: "5"
+services:
+  app:
+    build:
+      context: ..
+      dockerfile: Dockerfile
+    env_file: ./smartplate.env          # secrets: created on the server, never committed or baked into the image
+    environment:
+      - FORWARDED_ALLOW_IPS=${SMARTPLATE_NET:-172.31.240}.2  # only Caddy (fixed address below) may state the client's address
+    networks:
+      web:
+        ipv4_address: ${SMARTPLATE_NET:-172.31.240}.3
+    volumes:
+      - smartplate-data:/data           # accounts, history, cache and rate-limit counters survive restarts and rebuilds
+    restart: unless-stopped
+    logging: *logging
+    expose:
+      - "8000"
+  caddy:
+    image: caddy:2.8.4
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      - SITE_DOMAIN=${SITE_DOMAIN:?set SITE_DOMAIN in deploy/.env}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data                # certificates: must persist, or Let's Encrypt rate limits can block re-issuing
+      - caddy-config:/config
+    depends_on:
+      - app
+    restart: unless-stopped
+    logging: *logging
+    networks:
+      web:
+        ipv4_address: ${SMARTPLATE_NET:-172.31.240}.2
+networks:
+  web:                                  # private network for Caddy <-> app only
+    ipam:
+      config:
+        - subnet: ${SMARTPLATE_NET:-172.31.240}.0/24
+volumes:
+  smartplate-data:
+  caddy-data:
+  caddy-config:

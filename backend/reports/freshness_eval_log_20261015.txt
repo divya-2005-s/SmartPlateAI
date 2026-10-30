@@ -1,0 +1,38 @@
+2026-10-15 22:45:01.140272: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-10-15 22:45:03.215606: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-10-15 22:45:08.030584: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Test images: 2512
+D:\SmartPlateAI\backend\.venv\Lib\site-packages\keras\src\models\functional.py:259: UserWarning: The structure of `inputs` doesn't match the expected structure.
+Expected: ['image']
+Received: inputs=Tensor(shape=(32, 224, 224, 3))
+  warnings.warn(msg)
+  32/2512  64/2512  96/2512  128/2512  160/2512  192/2512  224/2512  256/2512  288/2512  320/2512  352/2512  384/2512  416/2512  448/2512  480/2512  512/2512  544/2512  576/2512  608/2512  640/2512  672/2512  704/2512  736/2512  768/2512  800/2512  832/2512  864/2512  896/2512  928/2512  960/2512  992/2512  1024/2512  1056/2512  1088/2512  1120/2512  1152/2512  1184/2512  1216/2512  1248/2512  1280/2512  1312/2512  1344/2512  1376/2512  1408/2512  1440/2512  1472/2512  1504/2512  1536/2512  1568/2512  1600/2512  1632/2512  1664/2512  1696/2512  1728/2512  1760/2512  1792/2512  1824/2512  1856/2512  1888/2512  1920/2512D:\SmartPlateAI\backend\.venv\Lib\site-packages\PIL\Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+  1952/2512  1984/2512  2016/2512  2048/2512  2080/2512  2112/2512  2144/2512  2176/2512  2208/2512  2240/2512  2272/2512  2304/2512  2336/2512  2368/2512  2400/2512  2432/2512  2464/2512  2496/2512D:\SmartPlateAI\backend\.venv\Lib\site-packages\keras\src\models\functional.py:259: UserWarning: The structure of `inputs` doesn't match the expected structure.
+Expected: ['image']
+Received: inputs=Tensor(shape=(16, 224, 224, 3))
+  warnings.warn(msg)
+  2512/2512
+{
+  "n": 2512,
+  "coverage": 1.0,
+  "confusion": {
+    "fresh": {
+      "fresh": 1251,
+      "uncertain": 0,
+      "possibly_spoiled": 61
+    },
+    "rotten": {
+      "fresh": 62,
+      "uncertain": 0,
+      "possibly_spoiled": 1138
+    }
+  },
+  "accuracy_on_decided": 0.951,
+  "precision_possibly_spoiled": 0.9491,
+  "recall_possibly_spoiled": 0.9483,
+  "precision_fresh": 0.9528,
+  "recall_fresh": 0.9535
+}
+Report: D:\SmartPlateAI\backend\reports\freshness\test_eval_20261015_224858.json

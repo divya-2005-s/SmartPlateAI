@@ -1,0 +1,127 @@
+ins_code,additive_name,functional_class,jecfa_status,codex_status,safety_note,source
+INS 102,Tartrazine,Color (Synthetic Yellow),Evaluated - ADI 0-10 mg/kg bw,Permitted (Codex STAN 192-1995),Synthetic azo dye; monitor in sensitive individuals,Codex Alimentarius / FSSAI
+INS 110,Sunset Yellow FCF,Color (Synthetic Orange),Evaluated - ADI 0-4 mg/kg bw,Permitted (Codex STAN 192-1995),Azo dye; permitted within specified maximum levels,Codex Alimentarius / FSSAI
+INS 1100,Amylases,Flour Treatment Agent / Enzyme,Acceptable - No ADI limit,Permitted (Codex STAN 192-1995),Enzyme derived from biological sources,JECFA / FSSAI
+INS 1101,Proteases,Flour Treatment Agent / Dough Conditioner,Acceptable,Permitted,Enzymatic dough modifier,JECFA / FSSAI
+INS 1102,Glucose Oxidase,Antioxidant / Enzyme,Acceptable,Permitted,Natural enzyme stabilizer,JECFA / FSSAI
+INS 1104,Lipases,Flavor Enhancer / Enzyme,Acceptable,Permitted,Fat-cleaving enzyme,JECFA / FSSAI
+INS 122,Azorubine (Carmoisine),Color (Synthetic Red),Evaluated - ADI 0-4 mg/kg bw,Permitted in select categories,Synthetic red colorant,Codex Alimentarius / FSSAI
+INS 124,Ponceau 4R,Color (Synthetic Red),Evaluated - ADI 0-4 mg/kg bw,Permitted within numeric limits,Red azo colorant,Codex Alimentarius / FSSAI
+INS 127,Erythrosine,Color (Synthetic Red),Evaluated - ADI 0-0.1 mg/kg bw,Restricted category usage,Iodinated colorant,Codex Alimentarius / FSSAI
+INS 129,Allura Red AC,Color (Synthetic Red),Evaluated - ADI 0-7 mg/kg bw,Permitted (Codex STAN 192-1995),Azo red dye,Codex Alimentarius / FSSAI
+INS 132,Indigotine (Indigo Carmine),Color (Synthetic Blue),Evaluated - ADI 0-5 mg/kg bw,Permitted (Codex STAN 192-1995),Blue dye,Codex Alimentarius / FSSAI
+INS 133,Brilliant Blue FCF,Color (Synthetic Blue),Evaluated - ADI 0-6 mg/kg bw,Permitted (Codex STAN 192-1995),Triphenylmethane blue color,Codex Alimentarius / FSSAI
+INS 140,Chlorophylls,Color (Natural Green),Acceptable,Permitted,Plant-derived natural green color,Codex Alimentarius / FSSAI
+INS 1400,"Dextrins, Roasted Starch",Thickener / Stabilizer,Acceptable - ADI Not Specified,Permitted (GMP),Modified starch carrier,JECFA / FSSAI
+INS 1401,Acid-Treated Starch,Thickener / Emulsifier,Acceptable - ADI Not Specified,Permitted (GMP),Food starch modified by acid processing,JECFA / FSSAI
+INS 1404,Oxidized Starch,Thickener / Emulsifier,Acceptable - ADI Not Specified,Permitted (GMP),Modified food starch,JECFA / FSSAI
+INS 1405,Enzyme-Treated Starch,Thickener / Stabilizer,Acceptable - ADI Not Specified,Permitted (GMP),Enzymatically modified starch,JECFA / FSSAI
+INS 141,"Chlorophyllins, Copper Complexes",Color (Green),Evaluated - ADI 0-15 mg/kg bw,Permitted (Codex STAN 192-1995),Semi-synthetic green derivative,Codex Alimentarius / FSSAI
+INS 1412,Distarch Phosphate,Thickener / Stabilizer,Acceptable - ADI Not Specified,Permitted (GMP),Cross-linked modified starch,JECFA / FSSAI
+INS 1414,Acetylated Distarch Phosphate,Thickener / Emulsifier,Acceptable - ADI Not Specified,Permitted (GMP),Freeze-thaw stable thickener,JECFA / FSSAI
+INS 1422,Acetylated Distarch Adipate,Thickener / Emulsifier,Acceptable - ADI Not Specified,Permitted (GMP),Heat-stable thickener,JECFA / FSSAI
+INS 1440,Hydroxypropyl Starch,Thickener / Emulsifier,Acceptable - ADI Not Specified,Permitted (GMP),Modified food starch,JECFA / FSSAI
+INS 1442,Hydroxypropyl Distarch Phosphate,Thickener / Stabilizer,Acceptable - ADI Not Specified,Permitted (GMP),Modified food starch,JECFA / FSSAI
+INS 145,Starch Acetate,Thickener / Emulsifier,Acceptable - ADI Not Specified,Permitted (GMP),Modified food starch,JECFA / FSSAI
+INS 1450,Starch Sodium Octenyl Succinate,Emulsifier / Stabilizer,Acceptable - ADI Not Specified,Permitted (GMP),Emulsifying agent for flavor oils,JECFA / FSSAI
+INS 150,Caramel Color (Plain / Ammonia / Sulfite),Color (Brown),Evaluated - ADI 0-200 mg/kg bw,Permitted (Codex STAN 192-1995),Caramelized carbohydrate colorant,Codex Alimentarius / FSSAI
+INS 1500,Sodium Lactate,Acidity Regulator / Humectant,Acceptable - ADI Not Specified,Permitted (GMP),Moisture retention agent,JECFA / FSSAI
+INS 1520,Propylene Glycol,Humectant / Carrier,Evaluated - ADI 0-25 mg/kg bw,Permitted in specific categories,Synthetic solvent and carrier,JECFA / FSSAI
+INS 155,Brown HT,Color (Synthetic Brown),Evaluated - ADI 0-1.5 mg/kg bw,Permitted in select regions,Synthetic brown dye,Codex Alimentarius / FSSAI
+INS 160,Carotenes / Beta-Carotene,Color (Natural Orange),Acceptable - ADI 0-5 mg/kg bw,Permitted (Codex STAN 192-1995),Pro-vitamin A precursor colorant,Codex Alimentarius / FSSAI
+INS 163,Anthocyanins,Color (Natural Red/Purple),Acceptable - ADI Not Specified,Permitted (GMP),Plant-extracted natural pigment,Codex Alimentarius / FSSAI
+INS 170,Calcium Carbonate,Acidity Regulator / Anti-caking Agent,Acceptable - ADI Not Specified,Permitted (GMP),Mineral calcium source,Codex Alimentarius / FSSAI
+INS 171,Titanium Dioxide,Color (White),Under Review,Restricted in select jurisdictions,Inert white pigment,JECFA / FSSAI
+INS 200,Sorbic Acid,Preservative (Antimicrobial),Evaluated - ADI 0-25 mg/kg bw,Permitted (Codex STAN 192-1995),Effective mold and yeast inhibitor,Codex Alimentarius / FSSAI
+INS 202,Potassium Sorbate,Preservative (Antimicrobial),Evaluated - ADI 0-25 mg/kg bw,Permitted (Codex STAN 192-1995),Water-soluble sorbic acid salt,Codex Alimentarius / FSSAI
+INS 2021,Potassium Sorbate Solution,Preservative,Evaluated,Permitted,Preservative solution formulation,FSSAI
+INS 207,Sodium Propionate,Preservative,Acceptable,Permitted (GMP),Mold inhibitor in baked goods,JECFA / FSSAI
+INS 211,Sodium Benzoate,Preservative (Antimicrobial),Evaluated - ADI 0-5 mg/kg bw,Permitted (Codex STAN 192-1995),Acidic food preservative,Codex Alimentarius / FSSAI
+INS 223,Sodium Metabisulfite,Preservative / Antioxidant,Evaluated - ADI 0-0.7 mg/kg bw,Permitted in specified foods,Sulfite preservative and bleaching agent,Codex Alimentarius / FSSAI
+INS 224,Potassium Metabisulfite,Preservative / Antioxidant,Evaluated - ADI 0-0.7 mg/kg bw,Permitted in specified foods,Sulfite antimicrobial agent,Codex Alimentarius / FSSAI
+INS 260,Acetic Acid,Acidity Regulator / Preservative,Acceptable - ADI Not Specified,Permitted (GMP),Vinegar acidifier,Codex Alimentarius / FSSAI
+INS 262,Sodium Acetates,Acidity Regulator / Preservative,Acceptable - ADI Not Specified,Permitted (GMP),Buffering agent,Codex Alimentarius / FSSAI
+INS 2620,Sodium Acetate Anhydrous,Acidity Regulator,Acceptable,Permitted (GMP),Food buffer,JECFA / FSSAI
+INS 270,Lactic Acid,Acidity Regulator,Acceptable - ADI Not Specified,Permitted (GMP),Natural organic acidifier,Codex Alimentarius / FSSAI
+INS 281,Sodium Propionate,Preservative,Acceptable - ADI Not Specified,Permitted (GMP),Bakery mold inhibitor,Codex Alimentarius / FSSAI
+INS 282,Calcium Propionate,Preservative,Acceptable - ADI Not Specified,Permitted (GMP),Standard bread preservative,Codex Alimentarius / FSSAI
+INS 290,Carbon Dioxide,Carbonating Agent / Propellant,Acceptable - ADI Not Specified,Permitted (GMP),Beverage carbonation gas,Codex Alimentarius / FSSAI
+INS 296,Malic Acid,Acidity Regulator,Acceptable - ADI Not Specified,Permitted (GMP),Fruit acidulant,Codex Alimentarius / FSSAI
+INS 297,Fumaric Acid,Acidity Regulator,Evaluated - ADI 0-6 mg/kg bw,Permitted (Codex STAN 192-1995),Solid acidulant,Codex Alimentarius / FSSAI
+INS 300,Ascorbic Acid (Vitamin C),Antioxidant / Flour Treatment Agent,Acceptable - ADI Not Specified,Permitted (GMP),Essential antioxidant and vitamin,Codex Alimentarius / FSSAI
+INS 304,Ascorbyl Palmitate,Antioxidant,Evaluated - ADI 0-1.25 mg/kg bw,Permitted (Codex STAN 192-1995),Fat-soluble vitamin C ester,Codex Alimentarius / FSSAI
+INS 306,Tocopherols Concentrate (Vitamin E),Antioxidant,Acceptable - ADI 0-2 mg/kg bw,Permitted (GMP),Natural lipid antioxidant,Codex Alimentarius / FSSAI
+INS 3076,Alpha-Tocopherol Synthetic,Antioxidant,Evaluated,Permitted,Lipid antioxidant stabilizer,JECFA / FSSAI
+INS 319,Tertiary Butylhydroquinone (TBHQ),Antioxidant,Evaluated - ADI 0-0.7 mg/kg bw,Permitted within strict maximum limits,Synthetic oil antioxidant,Codex Alimentarius / FSSAI
+INS 320,Butylated Hydroxyanisole (BHA),Antioxidant,Evaluated - ADI 0-0.5 mg/kg bw,Permitted within strict maximum limits,Synthetic lipid antioxidant,Codex Alimentarius / FSSAI
+INS 321,Butylated Hydroxytoluene (BHT),Antioxidant,Evaluated - ADI 0-0.3 mg/kg bw,Permitted within numeric limits,Synthetic antioxidant,Codex Alimentarius / FSSAI
+INS 322,Lecithins,Emulsifier / Antioxidant,Acceptable - ADI Not Specified,Permitted (GMP),Natural phospholipid emulsifier (Soy/Egg),Codex Alimentarius / FSSAI
+INS 325,Sodium Lactate,Acidity Regulator / Humectant,Acceptable - ADI Not Specified,Permitted (GMP),Buffering agent,Codex Alimentarius / FSSAI
+INS 330,Citric Acid,Acidity Regulator / Antioxidant,Acceptable - ADI Not Specified,Permitted (GMP),Universal fruit acidulant,Codex Alimentarius / FSSAI
+INS 331,Sodium Citrates,Acidity Regulator / Emulsifying Salt,Acceptable - ADI Not Specified,Permitted (GMP),Buffering and cheese salt,Codex Alimentarius / FSSAI
+INS 3310,Trisodium Citrate Anhydrous,Acidity Regulator,Acceptable,Permitted (GMP),Anhydrous buffering salt,JECFA / FSSAI
+INS 332,Potassium Citrates,Acidity Regulator / Stabilizer,Acceptable - ADI Not Specified,Permitted (GMP),Low-sodium acid regulator,Codex Alimentarius / FSSAI
+INS 333,Calcium Citrates,Acidity Regulator / Firming Agent,Acceptable - ADI Not Specified,Permitted (GMP),Calcium fortifier and buffer,Codex Alimentarius / FSSAI
+INS 334,Tartaric Acid,Acidity Regulator,Evaluated - ADI 0-30 mg/kg bw,Permitted (Codex STAN 192-1995),Grape acidulant,Codex Alimentarius / FSSAI
+INS 339,Sodium Phosphates,Acidity Regulator / Emulsifier,Evaluated - ADI 0-70 mg/kg bw (as P),Permitted in specified foods,Phosphate buffer and emulsifier,Codex Alimentarius / FSSAI
+INS 340,Potassium Phosphates,Acidity Regulator / Sequestrant,Evaluated - ADI 0-70 mg/kg bw (as P),Permitted in specified foods,Phosphate salt buffer,Codex Alimentarius / FSSAI
+INS 341,Calcium Phosphates,Anti-caking Agent / Firming Agent,Evaluated - ADI 0-70 mg/kg bw (as P),Permitted (GMP),Calcium nutrient and anti-caking agent,Codex Alimentarius / FSSAI
+INS 350,Sodium Malates,Acidity Regulator,Acceptable - ADI Not Specified,Permitted (GMP),Malic acid buffering salt,Codex Alimentarius / FSSAI
+INS 385,Calcium Disodium EDTA,Sequestrant / Antioxidant,Evaluated - ADI 0-2.5 mg/kg bw,Permitted within maximum numeric limits,Metal chelating stabilizer,Codex Alimentarius / FSSAI
+INS 386,Disodium EDTA,Sequestrant / Antioxidant,Evaluated - ADI 0-2.5 mg/kg bw,Permitted in specified foods,Chelating antioxidant agent,Codex Alimentarius / FSSAI
+INS 406,Agar,Thickener / Gelling Agent,Acceptable - ADI Not Specified,Permitted (GMP),Seaweed gelling agent,Codex Alimentarius / FSSAI
+INS 407,Carrageenan,Thickener / Gelling Agent,Acceptable - ADI Not Specified,Permitted (GMP),Red seaweeds hydrocolloid,Codex Alimentarius / FSSAI
+INS 410,Locust Bean Gum (Carob Gum),Thickener / Stabilizer,Acceptable - ADI Not Specified,Permitted (GMP),Natural plant seed hydrocolloid,Codex Alimentarius / FSSAI
+INS 412,Guar Gum,Thickener / Stabilizer,Acceptable - ADI Not Specified,Permitted (GMP),Natural legume seed gum,Codex Alimentarius / FSSAI
+INS 414,Gum Arabic (Acacia Gum),Thickener / Emulsifier,Acceptable - ADI Not Specified,Permitted (GMP),Natural acacia tree exudate,Codex Alimentarius / FSSAI
+INS 415,Xanthan Gum,Thickener / Emulsifier,Acceptable - ADI Not Specified,Permitted (GMP),Microbial fermentation polysaccharide,Codex Alimentarius / FSSAI
+INS 418,Gellan Gum,Thickener / Gelling Agent,Acceptable - ADI Not Specified,Permitted (GMP),Fermentation hydrocolloid,Codex Alimentarius / FSSAI
+INS 419,Gum Ghati,Thickener / Emulsifier,Acceptable - ADI Not Specified,Permitted (GMP),Natural plant exudate gum,JECFA / FSSAI
+INS 420,Sorbitol / Sorbitol Syrup,Sweetener / Humectant,Acceptable - ADI Not Specified,Permitted (GMP),Polyol sugar alcohol,Codex Alimentarius / FSSAI
+INS 422,Glycerol (Glycerin),Humectant / Solvent,Acceptable - ADI Not Specified,Permitted (GMP),Moisture retaining agent,Codex Alimentarius / FSSAI
+INS 4221,Glycerol Monostearate Pure,Emulsifier,Acceptable,Permitted (GMP),High purity monoglyceride,JECFA / FSSAI
+INS 433,Polyoxyethylene (20) Sorbitan Monooleate (Polysorbate 80),Emulsifier,Evaluated - ADI 0-25 mg/kg bw,Permitted (Codex STAN 192-1995),Non-ionic emulsifier,Codex Alimentarius / FSSAI
+INS 440,Pectins,Thickener / Gelling Agent,Acceptable - ADI Not Specified,Permitted (GMP),Citrus fruit gelling fiber,Codex Alimentarius / FSSAI
+INS 444,Sucrose Acetate Isobutyrate,Emulsifier / Stabilizer,Evaluated - ADI 0-20 mg/kg bw,Permitted in soft drinks,Flavor weighting oil agent,Codex Alimentarius / FSSAI
+INS 445,Glycerol Esters of Wood Rosins,Emulsifier / Stabilizer,Evaluated - ADI 0-25 mg/kg bw,Permitted in beverage emulsions,Clouding weighting agent,Codex Alimentarius / FSSAI
+INS 450,Diphosphates (Pyrophosphates),Emulsifier / Leavening Agent,Evaluated - ADI 0-70 mg/kg bw (as P),Permitted in specified foods,Phosphate leavening salt,Codex Alimentarius / FSSAI
+INS 4500,Disodium Diphosphate,Leavening Agent,Evaluated,Permitted,Baking powder phosphate,JECFA / FSSAI
+INS 451,Triphosphates,Sequestrant / Emulsifier,Evaluated - ADI 0-70 mg/kg bw (as P),Permitted in specified foods,Water retention phosphate,Codex Alimentarius / FSSAI
+INS 452,Polyphosphates,Emulsifier / Moisture Retainer,Evaluated - ADI 0-70 mg/kg bw (as P),Permitted in processed cheese/meats,Polymeric phosphate salt,Codex Alimentarius / FSSAI
+INS 460,Microcrystalline Cellulose / Powdered Cellulose,Anti-caking Agent / Bulking Agent,Acceptable - ADI Not Specified,Permitted (GMP),Dietary plant cellulose,Codex Alimentarius / FSSAI
+INS 461,Methyl Cellulose,Thickener / Emulsifier,Acceptable - ADI Not Specified,Permitted (GMP),Modified cellulose binder,Codex Alimentarius / FSSAI
+INS 466,Sodium Carboxymethyl Cellulose (Cellulose Gum),Thickener / Stabilizer,Acceptable - ADI Not Specified,Permitted (GMP),Water-soluble binder,Codex Alimentarius / FSSAI
+INS 470,Salts of Fatty Acids (Calcium/Sodium/Magnesium),Emulsifier / Anti-caking Agent,Acceptable - ADI Not Specified,Permitted (GMP),Fatty acid soap emulsifier,Codex Alimentarius / FSSAI
+INS 471,Mono- and Diglycerides of Fatty Acids,Emulsifier,Acceptable - ADI Not Specified,Permitted (GMP),Standard lipid emulsifier,Codex Alimentarius / FSSAI
+INS 472,"Esters of Mono- and Diglycerides (DATEM, LACTEM)",Emulsifier,Acceptable - ADI Not Specified,Permitted (GMP),Dough strengthening emulsifier,Codex Alimentarius / FSSAI
+INS 473,Sucrose Esters of Fatty Acids,Emulsifier,Evaluated - ADI 0-30 mg/kg bw,Permitted (Codex STAN 192-1995),Sugar-based emulsifier,Codex Alimentarius / FSSAI
+INS 475,Polyglycerol Esters of Fatty Acids,Emulsifier,Evaluated - ADI 0-25 mg/kg bw,Permitted in bakery fats,Surfactant emulsifier,Codex Alimentarius / FSSAI
+INS 476,Polyglycerol Polyricinoleate (PGPR),Emulsifier,Evaluated - ADI 0-7.5 mg/kg bw,Permitted in chocolates and spreads,Rheology modifier in chocolate,Codex Alimentarius / FSSAI
+INS 477,Propylene Glycol Esters of Fatty Acids,Emulsifier,Evaluated - ADI 0-25 mg/kg bw,Permitted in cake batters,Aerating lipid emulsifier,Codex Alimentarius / FSSAI
+INS 481,Sodium Stearoyl Lactylate (SSL),Emulsifier / Dough Conditioner,Evaluated - ADI 0-20 mg/kg bw,Permitted (Codex STAN 192-1995),Bakery crumb softener,Codex Alimentarius / FSSAI
+INS 491,Sorbitan Monostearate,Emulsifier,Evaluated - ADI 0-25 mg/kg bw,Permitted in dry yeast,Yeast rehydration emulsifier,Codex Alimentarius / FSSAI
+INS 492,Sorbitan Tristearate,Emulsifier / Anti-crystallization Agent,Evaluated - ADI 0-25 mg/kg bw,Permitted in chocolate fats,Fat bloom inhibitor,Codex Alimentarius / FSSAI
+INS 500,Sodium Carbonates (Sodium Bicarbonate / Washing Soda),Acidity Regulator / Raising Agent,Acceptable - ADI Not Specified,Permitted (GMP),Baking soda leavening agent,Codex Alimentarius / FSSAI
+INS 501,Potassium Carbonates,Acidity Regulator / Raising Agent,Acceptable - ADI Not Specified,Permitted (GMP),Alkalizing baking salt,Codex Alimentarius / FSSAI
+INS 503,Ammonium Carbonates (Ammonium Bicarbonate),Raising Agent / Acidity Regulator,Acceptable - ADI Not Specified,Permitted (GMP),Volatile biscuit raising agent,Codex Alimentarius / FSSAI
+INS 508,Potassium Chloride,Gelling Agent / Salt Substitute,Acceptable - ADI Not Specified,Permitted (GMP),Low-sodium salt formulation,Codex Alimentarius / FSSAI
+INS 509,Calcium Chloride,Firming Agent,Acceptable - ADI Not Specified,Permitted (GMP),Cheese and vegetable firming salt,Codex Alimentarius / FSSAI
+INS 521,Sodium Aluminium Sulphate,Raising Agent / Acidity Regulator,Evaluated - ADI 0-2 mg/kg bw (as Al),Permitted within numeric limits,Double-acting baking acid,Codex Alimentarius / FSSAI
+INS 525,Potassium Hydroxide,Acidity Regulator,Acceptable - ADI Not Specified,Permitted (GMP),Alkali processing agent,Codex Alimentarius / FSSAI
+INS 5330,Magnesium Silicate Anti-caking,Anti-caking Agent,Acceptable,Permitted (GMP),Powder flow agent,JECFA / FSSAI
+INS 541,Sodium Aluminium Phosphate,Raising Agent,Evaluated - ADI 0-2 mg/kg bw (as Al),Permitted in baked goods,Slow-acting leavening acid,Codex Alimentarius / FSSAI
+INS 551,Silicon Dioxide (Amorphous Silica),Anti-caking Agent,Acceptable - ADI Not Specified,Permitted (GMP),Powder anti-caking agent,Codex Alimentarius / FSSAI
+INS 553,Talc / Magnesium Silicates,Anti-caking Agent / Glazing Agent,Acceptable - ADI Not Specified,Permitted (GMP),Surface lubricant and release agent,Codex Alimentarius / FSSAI
+INS 575,Glucono Delta-Lactone (GDL),Acidity Regulator / Raising Agent,Acceptable - ADI Not Specified,Permitted (GMP),Slow acidulant and tofu coagulant,Codex Alimentarius / FSSAI
+INS 579,Ferrous Gluconate,Color Retention Agent / Nutrient,Evaluated - ADI 0-0.8 mg/kg bw (as Fe),Permitted in ripe olives,Iron nutrient and olive color fixative,Codex Alimentarius / FSSAI
+INS 627,Disodium 5'-Guanylate,Flavor Enhancer,Acceptable - ADI Not Specified,Permitted (GMP),Umami flavor synergist,Codex Alimentarius / FSSAI
+INS 630,Inosinic Acid,Flavor Enhancer,Acceptable - ADI Not Specified,Permitted (GMP),Nucleotide umami enhancer,Codex Alimentarius / FSSAI
+INS 631,Disodium 5'-Inosinate,Flavor Enhancer,Acceptable - ADI Not Specified,Permitted (GMP),Umami flavor enhancer,Codex Alimentarius / FSSAI
+INS 635,Disodium 5'-Ribonucleotides,Flavor Enhancer,Acceptable - ADI Not Specified,Permitted (GMP),Potent 50:50 MSG synergist,Codex Alimentarius / FSSAI
+INS 903,Carnauba Wax,Glazing Agent,Evaluated - ADI 0-7 mg/kg bw,Permitted (Codex STAN 192-1995),Palm tree leaf protective polish,Codex Alimentarius / FSSAI
+INS 904,Shellac,Glazing Agent,Acceptable - ADI Not Specified,Permitted (GMP),Natural resinous confection glazing,Codex Alimentarius / FSSAI
+INS 950,Acesulfame Potassium (Ace-K),Sweetener (Intense High-Intensity),Evaluated - ADI 0-15 mg/kg bw,Permitted (Codex STAN 192-1995),200x calorie-free sweetener,Codex Alimentarius / FSSAI
+INS 953,Isomalt,Sweetener / Bulking Agent,Acceptable - ADI Not Specified,Permitted (GMP),Sugar-free hard candy polyol,Codex Alimentarius / FSSAI
+INS 955,Sucralose,Sweetener (Intense High-Intensity),Evaluated - ADI 0-15 mg/kg bw,Permitted (Codex STAN 192-1995),600x heat-stable sweetener,Codex Alimentarius / FSSAI
+INS 960,Steviol Glycosides (Stevia),Sweetener (Natural High-Intensity),Evaluated - ADI 0-4 mg/kg bw (as steviol),Permitted (Codex STAN 192-1995),Natural plant-derived sweetener,Codex Alimentarius / FSSAI
+INS 965,Maltitol / Maltitol Syrup,Sweetener / Bulking Agent,Acceptable - ADI Not Specified,Permitted (GMP),Sugar substitute polyol,Codex Alimentarius / FSSAI

@@ -1,0 +1,321 @@
+{
+  "overall": {
+    "n": 2512,
+    "coverage": 1.0,
+    "confusion": {
+      "fresh": {
+        "fresh": 1251,
+        "uncertain": 0,
+        "possibly_spoiled": 61
+      },
+      "rotten": {
+        "fresh": 62,
+        "uncertain": 0,
+        "possibly_spoiled": 1138
+      }
+    },
+    "accuracy_on_decided": 0.951,
+    "precision_possibly_spoiled": 0.9491,
+    "recall_possibly_spoiled": 0.9483,
+    "precision_fresh": 0.9528,
+    "recall_fresh": 0.9535
+  },
+  "per_food": {
+    "Apple": {
+      "n": 159,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 97,
+          "uncertain": 0,
+          "possibly_spoiled": 7
+        },
+        "rotten": {
+          "fresh": 1,
+          "uncertain": 0,
+          "possibly_spoiled": 54
+        }
+      },
+      "accuracy_on_decided": 0.9497,
+      "precision_possibly_spoiled": 0.8852,
+      "recall_possibly_spoiled": 0.9818,
+      "precision_fresh": 0.9898,
+      "recall_fresh": 0.9327
+    },
+    "Banana": {
+      "n": 219,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 139,
+          "uncertain": 0,
+          "possibly_spoiled": 4
+        },
+        "rotten": {
+          "fresh": 1,
+          "uncertain": 0,
+          "possibly_spoiled": 75
+        }
+      },
+      "accuracy_on_decided": 0.9772,
+      "precision_possibly_spoiled": 0.9494,
+      "recall_possibly_spoiled": 0.9868,
+      "precision_fresh": 0.9929,
+      "recall_fresh": 0.972
+    },
+    "Bell Pepper": {
+      "n": 172,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 85,
+          "uncertain": 0,
+          "possibly_spoiled": 5
+        },
+        "rotten": {
+          "fresh": 11,
+          "uncertain": 0,
+          "possibly_spoiled": 71
+        }
+      },
+      "accuracy_on_decided": 0.907,
+      "precision_possibly_spoiled": 0.9342,
+      "recall_possibly_spoiled": 0.8659,
+      "precision_fresh": 0.8854,
+      "recall_fresh": 0.9444
+    },
+    "Carrot": {
+      "n": 168,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 86,
+          "uncertain": 0,
+          "possibly_spoiled": 6
+        },
+        "rotten": {
+          "fresh": 7,
+          "uncertain": 0,
+          "possibly_spoiled": 69
+        }
+      },
+      "accuracy_on_decided": 0.9226,
+      "precision_possibly_spoiled": 0.92,
+      "recall_possibly_spoiled": 0.9079,
+      "precision_fresh": 0.9247,
+      "recall_fresh": 0.9348
+    },
+    "Cucumber": {
+      "n": 176,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 84,
+          "uncertain": 0,
+          "possibly_spoiled": 5
+        },
+        "rotten": {
+          "fresh": 4,
+          "uncertain": 0,
+          "possibly_spoiled": 83
+        }
+      },
+      "accuracy_on_decided": 0.9489,
+      "precision_possibly_spoiled": 0.9432,
+      "recall_possibly_spoiled": 0.954,
+      "precision_fresh": 0.9545,
+      "recall_fresh": 0.9438
+    },
+    "Grape": {
+      "n": 60,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 29,
+          "uncertain": 0,
+          "possibly_spoiled": 1
+        },
+        "rotten": {
+          "fresh": 6,
+          "uncertain": 0,
+          "possibly_spoiled": 24
+        }
+      },
+      "accuracy_on_decided": 0.8833,
+      "precision_possibly_spoiled": 0.96,
+      "recall_possibly_spoiled": 0.8,
+      "precision_fresh": 0.8286,
+      "recall_fresh": 0.9667
+    },
+    "Guava": {
+      "n": 60,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 30,
+          "uncertain": 0,
+          "possibly_spoiled": 0
+        },
+        "rotten": {
+          "fresh": 2,
+          "uncertain": 0,
+          "possibly_spoiled": 28
+        }
+      },
+      "accuracy_on_decided": 0.9667,
+      "precision_possibly_spoiled": 1.0,
+      "recall_possibly_spoiled": 0.9333,
+      "precision_fresh": 0.9375,
+      "recall_fresh": 1.0
+    },
+    "Jujube": {
+      "n": 60,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 29,
+          "uncertain": 0,
+          "possibly_spoiled": 1
+        },
+        "rotten": {
+          "fresh": 2,
+          "uncertain": 0,
+          "possibly_spoiled": 28
+        }
+      },
+      "accuracy_on_decided": 0.95,
+      "precision_possibly_spoiled": 0.9655,
+      "recall_possibly_spoiled": 0.9333,
+      "precision_fresh": 0.9355,
+      "recall_fresh": 0.9667
+    },
+    "Mango": {
+      "n": 480,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 209,
+          "uncertain": 0,
+          "possibly_spoiled": 6
+        },
+        "rotten": {
+          "fresh": 6,
+          "uncertain": 0,
+          "possibly_spoiled": 259
+        }
+      },
+      "accuracy_on_decided": 0.975,
+      "precision_possibly_spoiled": 0.9774,
+      "recall_possibly_spoiled": 0.9774,
+      "precision_fresh": 0.9721,
+      "recall_fresh": 0.9721
+    },
+    "Orange": {
+      "n": 156,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 76,
+          "uncertain": 0,
+          "possibly_spoiled": 9
+        },
+        "rotten": {
+          "fresh": 10,
+          "uncertain": 0,
+          "possibly_spoiled": 61
+        }
+      },
+      "accuracy_on_decided": 0.8782,
+      "precision_possibly_spoiled": 0.8714,
+      "recall_possibly_spoiled": 0.8592,
+      "precision_fresh": 0.8837,
+      "recall_fresh": 0.8941
+    },
+    "Pomegranate": {
+      "n": 60,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 24,
+          "uncertain": 0,
+          "possibly_spoiled": 6
+        },
+        "rotten": {
+          "fresh": 0,
+          "uncertain": 0,
+          "possibly_spoiled": 30
+        }
+      },
+      "accuracy_on_decided": 0.9,
+      "precision_possibly_spoiled": 0.8333,
+      "recall_possibly_spoiled": 1.0,
+      "precision_fresh": 1.0,
+      "recall_fresh": 0.8
+    },
+    "Potato": {
+      "n": 177,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 85,
+          "uncertain": 0,
+          "possibly_spoiled": 7
+        },
+        "rotten": {
+          "fresh": 7,
+          "uncertain": 0,
+          "possibly_spoiled": 78
+        }
+      },
+      "accuracy_on_decided": 0.9209,
+      "precision_possibly_spoiled": 0.9176,
+      "recall_possibly_spoiled": 0.9176,
+      "precision_fresh": 0.9239,
+      "recall_fresh": 0.9239
+    },
+    "Strawberry": {
+      "n": 388,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 189,
+          "uncertain": 0,
+          "possibly_spoiled": 2
+        },
+        "rotten": {
+          "fresh": 3,
+          "uncertain": 0,
+          "possibly_spoiled": 194
+        }
+      },
+      "accuracy_on_decided": 0.9871,
+      "precision_possibly_spoiled": 0.9898,
+      "recall_possibly_spoiled": 0.9848,
+      "precision_fresh": 0.9844,
+      "recall_fresh": 0.9895
+    },
+    "Tomato": {
+      "n": 177,
+      "coverage": 1.0,
+      "confusion": {
+        "fresh": {
+          "fresh": 89,
+          "uncertain": 0,
+          "possibly_spoiled": 2
+        },
+        "rotten": {
+          "fresh": 2,
+          "uncertain": 0,
+          "possibly_spoiled": 84
+        }
+      },
+      "accuracy_on_decided": 0.9774,
+      "precision_possibly_spoiled": 0.9767,
+      "recall_possibly_spoiled": 0.9767,
+      "precision_fresh": 0.978,
+      "recall_fresh": 0.978
+    }
+  },
+  "evaluated": "2026-10-15T22:48:58",
+  "note": "Held-out test split of the project's dataset photos, evaluated once; not real-world phone photos."
+}
